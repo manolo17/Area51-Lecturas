@@ -9,5 +9,6 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 ## Cotenido
 
 - HTML5:
+  * Lectura 1
 - CSS3:
 - JavaScript/jQuery:
