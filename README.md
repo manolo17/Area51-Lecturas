@@ -38,13 +38,13 @@ De la misma forma en que Word tiene un formato visual distinto para sus títulos
 ### Mi primer sitio web
 
 <a href="#etiquetas-texto"></a>
-## Etiquetas: Texto
+### Etiquetas: Texto
 
 <a href="#etiquetas-listas"></a>
-## Etiquetas: Listas
+### Etiquetas: Listas
 
 <a href="#etiquetas-hipervinculos"></a>
-## Etiquetas: Hipervínculos
+### Etiquetas: Hipervínculos
 
 <a href="#etiquetas-imagenes"></a>
-## Etiquetas: imagenes
+### Etiquetas: imagenes
