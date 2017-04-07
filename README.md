@@ -24,7 +24,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 
     
 
-## JavaScript/jQuery
+## JavaScript / jQuery
   ### JavaScript
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
   - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
