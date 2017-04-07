@@ -9,17 +9,27 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 ## Cotenido
 
 - HTML5:
+  * [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#introduccion)
   * [Etiquetas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas)
   * [Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#estructura)
 - CSS3:
 - JavaScript/jQuery:
 
+<a href="#introduccion"></a>
+## Introducción
+
+Un sitio web es, en escencia, un documento de texto que es interpretado por nuestro navegador de internet. HTML es un conjunto de etiquetas que nos ayudan a estructurar el contenido que queremos presentar. 
+
+Por esta razón, la extensión de nuestro archivo es `html`
+
 <a href="#etiquetas"></a>
 ## Etiquetas HTML5
 
-Un sitio web es, en escencia, un documento de texto que es interpretado por nuestro navegador de internet. El navegador es capaz de leer HTML para reconocer la estructura de nuestro sitio. 
+De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
-Por esta razón, la extensión de nuestro archivo es `html`
+[aquí va una imagen mostrando un documento de word y un navegador web con un ejemplo de un sitio]
+
+### Sintaxis de etiquetas
 
 <a href="#estructura"></a>
 ## Estructura 
