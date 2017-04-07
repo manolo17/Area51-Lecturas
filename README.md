@@ -9,9 +9,8 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 ## Cotenido
 
 - HTML5:
-  * [Otro link](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas)
-  * [Otro link](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#estructura)
-  * [Etiquetas HTML5](https://www.sublimetext.com/3)
+  * [Etiquetas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas)
+  * [Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#estructura)
 - CSS3:
 - JavaScript/jQuery:
 
