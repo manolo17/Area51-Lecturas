@@ -9,6 +9,6 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 ## Cotenido
 
 - HTML5:
-  * Lectura 1
+  * [Etiquetas HTML5](https://www.sublimetext.com/3)
 - CSS3:
 - JavaScript/jQuery:
