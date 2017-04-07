@@ -17,13 +17,9 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 <a href="#etiquetas"></a>
 ## Etiquetas HTML5
 
-Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. 
+Un sitio web es, en escencia, un documento de texto que es interpretado por nuestro navegador de internet. El navegador es capaz de leer HTML para reconocer la estructura de nuestro sitio. 
 
-Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. 
-
-Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. 
-
-Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. 
+Por esta razón, la extensión de nuestro archivo es `html`
 
 <a href="#estructura"></a>
 ## Estructura 
