@@ -14,5 +14,5 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 - CSS3:
 - JavaScript/jQuery:
 
-<a href="#etiquetas">Etiquetas HTML5</a>
+<a href="#etiquetas"></a>
 ## Etiquetas HTML5
