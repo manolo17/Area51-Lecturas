@@ -49,7 +49,7 @@ Un sitio web es, en escencia, un documento de texto que es interpretado por nues
 
 Por esta razón, la extensión de nuestro archivo es `html`
 
-<a href="#etiquetas"></a>
+<a href="#" id="etiquetas"></a>
 ## Etiquetas HTML5
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
@@ -64,7 +64,7 @@ De la misma forma en que Word tiene un formato visual distinto para sus títulos
 
 <strong>Conclusión:</strong> La estructura de un sitio web utiliza los mismos principios de un documento de texto usando etiquetas para especificar el tipo de información que se quiere mostrar en el navegador
 
-<a href="etiquetas-sintaxis"></a>
+<a href="#" id="etiquetas-sintaxis"></a>
 ### Sintaxis de etiquetas
 
 La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
