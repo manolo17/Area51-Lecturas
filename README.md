@@ -11,10 +11,12 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 ## HTML5
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#introduccion)
   - [Etiquetas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas)
-    * [Texto](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-texto)
-    * [Listas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-listas)
-    * [Hipervínculos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-hipervinculos)
-    * [Imágenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-imagenes)
+    * [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-sintaxis)
+    * [Atributos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-atributos)
+    * [Etiquetas: Texto](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-texto)
+    * [Etiquetas: Listas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-listas)
+    * [Etiquetas: Hipervínculos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-hipervinculos)
+    * [Etiquetas: Imágenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-imagenes)
 
 ## CSS3
 - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-css)
@@ -55,6 +57,14 @@ De la misma forma en que Word tiene un formato visual distinto para sus títulos
 [aquí va una imagen mostrando un documento de word y un navegador web con un ejemplo de un sitio]
 
 ### Sintaxis de etiquetas
+
+La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
+
+[imagen mostrando la sintaxis de una etiqueta `<p>`]
+
+Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos
+
+### Atributos
 
 ### Mi primer sitio web
 
