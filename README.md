@@ -76,9 +76,7 @@ Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre
 <a href="#" id="etiquetas-atributos"></a>
 ### Atributos
 
-Los atributos son instrucciones e información adicional que podemos darle a las etiquetas HTML para agregarle funcionalidad. 
-
-Cada etiqueta soporta diferentes tipos de atributos, así como hay atributos que pueden ser usados para cualquier tipo de etiqueta.
+Los atributos son instrucciones e información adicional que podemos darle a las etiquetas HTML para agregarle funcionalidad. Cada etiqueta soporta diferentes tipos de atributos, así como hay atributos que pueden ser usados para cualquier tipo de etiqueta.
 
 Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al navegador el idioma en que nuestro sitio está escrito.
 
