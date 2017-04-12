@@ -54,11 +54,15 @@ Por esta razón, la extensión de nuestro archivo es `html`
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
+  ### Estructura de un Documento Word
+
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-1.png)
 
-[aquí va una imagen mostrando un documento de word y un navegador web con un ejemplo de un sitio]
+#### Estructura de un sitio web en un navegador
 
-### Sintaxis de etiquetas
+![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-2.png)
+
+#### Sintaxis de etiquetas
 
 La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
 
