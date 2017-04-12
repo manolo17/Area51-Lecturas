@@ -73,6 +73,7 @@ La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cier
 
 Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos.
 
+<a href="#" id="etiquetas-atributos"></a>
 ### Atributos
 
 Los atributos son instrucciones e información adicional que podemos darle a las etiquetas HTML para agregarle funcionalidad. 
