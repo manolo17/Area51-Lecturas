@@ -42,7 +42,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
   - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
 
-<a id="introduccion"></a>
+<a href="#" id="introduccion"></a>
 ## Introducción
 
 Un sitio web es, en escencia, un documento de texto que es interpretado por nuestro navegador de internet. HTML es un conjunto de etiquetas que nos ayudan a estructurar el contenido que queremos presentar. 
