@@ -71,9 +71,18 @@ La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cier
 
 ![Etiquetas Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-etiquetas-sintaxis.png)
 
-Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos
+Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos.
 
 ### Atributos
+
+Los atributos son instrucciones e información adicional que podemos darle a las etiquetas HTML para agregarle funcionalidad. 
+
+Cada etiqueta soporta diferentes tipos de atributos, así como hay atributos que pueden ser usados para cualquier tipo de etiqueta.
+
+Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al navegador el idioma en que nuestro sitio está escrito.
+
+![Atributos Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-atributo-sintaxis.png)
+
 
 ### Mi primer sitio web
 
