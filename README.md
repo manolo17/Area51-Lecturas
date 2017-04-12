@@ -69,7 +69,7 @@ De la misma forma en que Word tiene un formato visual distinto para sus títulos
 
 La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
 
-[imagen mostrando la sintaxis de una etiqueta `<p>`]
+![Etiquetas Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-etiquetas-sintaxis.png)
 
 Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos
 
