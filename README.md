@@ -1,5 +1,7 @@
 # Lecturas Curso de HTML5 + CSS3 + jQuery
 
+
+<a id="sublime-text"></a>
 ### Descargar Sublime Text
 
 Antes de comenzar a probar código necesitamos descargar nuestro editor de texto Sublime Text.
@@ -54,11 +56,11 @@ Por esta razón, la extensión de nuestro archivo es `html`
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
-#### Estructura de un Documento Word
+#### Como vemos un documento de texto en Word
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-1.png)
 
-#### Estructura de un sitio web en un navegador
+#### Como vemos un documento de texto en un navegador con HTML
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-2.png)
 
@@ -84,6 +86,11 @@ Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al n
 
 
 ### Mi primer sitio web
+
+Sigue los siguientes pasos para crear tu primer sitio web:
+  1. Abre Sublime Text ( si aún no lo tienes instalado [ve al comienzo](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#sublime-text) de las lecturas )
+  2. Usando el atajo de `control + t` / `cmd + t` abre un nuevo tab y escribe `index.html` 
+  3. Usando el atajo `control + s` / `cmd + s` guarda tu archivo en una carpeta con el nombre `mi-primer-sitio`. 
 
 <a href="#etiquetas-texto"></a>
 ### Etiquetas: Texto
