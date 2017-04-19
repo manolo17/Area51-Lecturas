@@ -89,6 +89,12 @@ Sigue los siguientes pasos para crear tu primer sitio web:
 
 Nota: Sigue estos pasos en el siguiente video:
 
+[aquí va video de los pasos para crear un nuevo archivo HTML]
+
+Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una etiqueta que le haga saber al navegador que vamos a usar HTML5.
+
+`<DOCTYPE html!>`
+
 <a href="#etiquetas-texto"></a>
 # Etiquetas: Texto
 
