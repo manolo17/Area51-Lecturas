@@ -89,10 +89,8 @@ Sigue los siguientes pasos para crear tu primer sitio web:
 
 Nota: Sigue estos pasos en el siguiente video:
 
-
-
 <a href="#etiquetas-texto"></a>
- Etiquetas: Texto
+# Etiquetas: Texto
 
 Como ya se ha mencionado, un sitio web consiste en un documento de texto el cual está estructurado con etiquetas. Estas etiquetas le dan un mayor significado al contenido que queremos presentar en el navegador. 
 
