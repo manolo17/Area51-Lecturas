@@ -80,7 +80,7 @@ Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al n
 ![Atributos Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-atributo-sintaxis.png)
 
 
-# Mi primer sitio web
+## Mi primer sitio web
 
 Sigue los siguientes pasos para crear tu primer sitio web:
   1. Abre Sublime Text ( si aún no lo tienes instalado <a href="#sublime-text">ve al comienzo</a> de las lecturas )
@@ -92,17 +92,17 @@ Nota: Sigue estos pasos en el siguiente video:
 
 
 <a href="#etiquetas-texto"></a>
-## Etiquetas: Texto
+ Etiquetas: Texto
 
 Como ya se ha mencionado, un sitio web consiste en un documento de texto el cual está estructurado con etiquetas. Estas etiquetas le dan un mayor significado al contenido que queremos presentar en el navegador. 
 
 Existen etiquetas que ayudan a estructurar los contenidos que forman parte de los encabezados de nuestro sitio, así como sus párrafos. 
 
 <a href="#etiquetas-listas"></a>
-## Etiquetas: Listas
+# Etiquetas: Listas
 
 <a href="#etiquetas-hipervinculos"></a>
-### Etiquetas: Hipervínculos
+# Etiquetas: Hipervínculos
 
 <a href="#etiquetas-imagenes"></a>
-### Etiquetas: imagenes
+# Etiquetas: Imagenes
