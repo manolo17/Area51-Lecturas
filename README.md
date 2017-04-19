@@ -88,7 +88,7 @@ Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al n
 ### Mi primer sitio web
 
 Sigue los siguientes pasos para crear tu primer sitio web:
-  1. Abre Sublime Text ( si aún no lo tienes instalado [ve al comienzo](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#sublime-text) de las lecturas )
+  1. Abre Sublime Text ( si aún no lo tienes instalado <a href="#sublime-text">ve al comienzo</a> de las lecturas )
   2. Usando el atajo de `control + t` / `cmd + t` abre un nuevo tab y escribe `index.html` 
   3. Usando el atajo `control + s` / `cmd + s` guarda tu archivo en una carpeta con el nombre `mi-primer-sitio`. 
 
