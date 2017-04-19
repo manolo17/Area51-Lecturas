@@ -102,5 +102,11 @@ Existen etiquetas que ayudan a estructurar los contenidos que forman parte de lo
 <a href="#etiquetas-hipervinculos"></a>
 # Etiquetas: Hipervínculos
 
+Los hipervínculos son uno de los componentes más importantes en un sitio web, ya que le permiten al usuario navegar a través de las páginas que component tu aplicación/stio.
+
+Existen alrededor de 5 tipos diferentes de hipervínculos.
+
+
+
 <a href="#etiquetas-imagenes"></a>
 # Etiquetas: Imagenes
