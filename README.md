@@ -102,9 +102,12 @@ Lo siguiente que necesitamos agregar es `<html></html>`. Dentro de esta etiqueta
 ### Información al navegador
 Dentro de la etiqueta `<head></head>` es donde irá toda la información interna que necesita el navegador. Por ejemplo, dado que a veces el contenido de nuestro sitio puede estar en español, necesitamos que el navegador acepte caracteres especiales como tildes o la letra `ñ`.
 
-Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8` es el valor  
+Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8`. Sigue los pasos en el ejemplo abajo.s
+
+[gif escribiendo el doctype, html y la etiqueta head con el meta]
 
 ### Información al usuario / pantalla
+Dentro de la etiqueta `<body></body>` es donde colocaremos todo el contenido que deseamos mostrar en la pantalla y los usuarios.s
 
 <a href="#etiquetas-texto"></a>
 # Etiquetas: Texto
