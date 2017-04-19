@@ -100,6 +100,9 @@ Esta etiqueta, que va al inicio de nuestro `index.html`, le indica al navegador 
 Lo siguiente que necesitamos agregar es `<html></html>`. Dentro de esta etiqueta irá la información que le daremos al navegador y lo que queremos que se vea en nuestra pantalla.
 
 ### Información al navegador
+Dentro de la etiqueta `<head></head>` es donde irá toda la información interna que necesita el navegador. Por ejemplo, dado que a veces el contenido de nuestro sitio puede estar en español, necesitamos que el navegador acepte caracteres especiales como tildes o la letra `ñ`.
+
+Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8` es el valor  
 
 ### Información al usuario / pantalla
 
