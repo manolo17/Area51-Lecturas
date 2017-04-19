@@ -8,9 +8,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 
 [Ingresa a este enlace](https://www.sublimetext.com/3) y descarga la versión según el sistema operativo que uses
 
-# Cotenido
-
-## HTML5
+# HTML5
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#introduccion)
   - [Etiquetas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas)
     * [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-sintaxis)
@@ -20,7 +18,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
     * [Etiquetas: Hipervínculos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-hipervinculos)
     * [Etiquetas: Imágenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-imagenes)
 
-## CSS3
+# CSS3
 - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-css)
 - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
 - [Herencia](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
@@ -28,8 +26,8 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 
     
 
-## JavaScript / jQuery
-  ### JavaScript
+# JavaScript / jQuery
+  ## JavaScript
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
   - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
   - [Elementos de la Programación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
