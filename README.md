@@ -45,22 +45,22 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
   - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
 
 <a href="#" id="introduccion"></a>
-## Introducción
+# Introducción
 
 Un sitio web es, en escencia, un documento de texto que es interpretado por nuestro navegador de internet. HTML es un conjunto de etiquetas que nos ayudan a estructurar el contenido que queremos presentar. 
 
 Por esta razón, la extensión de nuestro archivo es `html`
 
 <a href="#" id="etiquetas"></a>
-## Etiquetas HTML5
+# Etiquetas HTML5
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
-#### Como vemos un documento de texto en Word
+# Como vemos un documento de texto en Word
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-1.png)
 
-#### Como vemos un documento de texto en un navegador con HTML
+# Como vemos un documento de texto en un navegador con HTML
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-2.png)
 
@@ -76,7 +76,7 @@ La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cier
 Sin embargo, existen etiquetas que que pueden ser sólo de apertura. Esto ocurre debido a que la información que contienen es cargada a través de atributos.
 
 <a href="#" id="etiquetas-atributos"></a>
-### Atributos
+## Atributos
 
 Los atributos son instrucciones e información adicional que podemos darle a las etiquetas HTML para agregarle funcionalidad. Cada etiqueta soporta diferentes tipos de atributos, así como hay atributos que pueden ser usados para cualquier tipo de etiqueta.
 
@@ -85,18 +85,26 @@ Por ejemplo, la etiqueta `<html>` soporta el atributo `lang` el cual indica al n
 ![Atributos Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-atributo-sintaxis.png)
 
 
-### Mi primer sitio web
+# Mi primer sitio web
 
 Sigue los siguientes pasos para crear tu primer sitio web:
   1. Abre Sublime Text ( si aún no lo tienes instalado <a href="#sublime-text">ve al comienzo</a> de las lecturas )
   2. Usando el atajo de `control + t` / `cmd + t` abre un nuevo tab y escribe `index.html` 
   3. Usando el atajo `control + s` / `cmd + s` guarda tu archivo en una carpeta con el nombre `mi-primer-sitio`. 
 
+Nota: Sigue estos pasos en el siguiente video:
+
+
+
 <a href="#etiquetas-texto"></a>
-### Etiquetas: Texto
+## Etiquetas: Texto
+
+Como ya se ha mencionado, un sitio web consiste en un documento de texto el cual está estructurado con etiquetas. Estas etiquetas le dan un mayor significado al contenido que queremos presentar en el navegador. 
+
+Existen etiquetas que ayudan a estructurar los contenidos que forman parte de los encabezados de nuestro sitio, así como sus párrafos. 
 
 <a href="#etiquetas-listas"></a>
-### Etiquetas: Listas
+## Etiquetas: Listas
 
 <a href="#etiquetas-hipervinculos"></a>
 ### Etiquetas: Hipervínculos
