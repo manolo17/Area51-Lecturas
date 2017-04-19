@@ -93,7 +93,7 @@ Nota: Sigue estos pasos en el siguiente video:
 
 Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una etiqueta que le haga saber al navegador que vamos a usar HTML5.
 
-### `<DOCTYPE html!>`
+### `<DOCTYPE html!>` : Esta instrucción le indica al navegador que el documento debe procesarse según la codificación html5.
 
 <a href="#etiquetas-texto"></a>
 # Etiquetas: Texto
