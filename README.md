@@ -97,11 +97,11 @@ Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una eti
 
 Esta etiqueta, que va al inicio de nuestro `index.html`, le indica al navegador que el documento debe procesarse según la codificación HTML5.
 
-Lo siguiente que necesitamos agregar es `<html></html>`. Esta etiqueta es la que va a contener tanto la información que le daremos al navegador como la lo que queremos que se vea en nuestra pantalla.
+Lo siguiente que necesitamos agregar es `<html></html>`. Dentro de esta etiqueta irá la información que le daremos al navegador y lo que queremos que se vea en nuestra pantalla.
 
 ### Información al navegador
 
-### Información al usuario
+### Información al usuario / pantalla
 
 <a href="#etiquetas-texto"></a>
 # Etiquetas: Texto
