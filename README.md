@@ -119,14 +119,17 @@ Existen etiquetas que ayudan a estructurar los contenidos que forman parte de lo
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
-Las listas funcionan para que nosotros podamos agrupar conjuntos de elementos por ejemplo para un menú de navegación. 
+Las listas funcionan para que nosotros podamos agrupar conjuntos de elementos por ejemplo para un menú de navegación.
 
-Existen dos tipos de listas que podemos presentar con HTML: Ordenadas de Desordenadas.
+Existen 3 tipos de listas que podemos presentar con HTML: Ordenadas, Desordenadas y de Definición.
 
 ## Listas Ordenadas
 
 ## Listas Desordenadas
 
+Las listas no ordenadas son de los elementos que más se usan para la construcción de un sitio web. Está conformada por un conjunto de elementos que no requieren de un orden o una secuencia específica.
+
+Para generar una lista desordenada primero necesitamos de la etiqueta `<ul>` quien es la que encierra los elementos que son parte de la lista y la etiqeuta `<li>` para cada elemento.
 
 
 <a href="#etiquetas-hipervinculos"></a>
