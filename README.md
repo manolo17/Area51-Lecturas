@@ -89,7 +89,7 @@ Sigue los siguientes pasos para crear tu primer sitio web:
 
 Nota: Sigue estos pasos en el siguiente video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rrE2S4r-ndk" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una etiqueta que le haga saber al navegador que vamos a usar HTML5.
 
