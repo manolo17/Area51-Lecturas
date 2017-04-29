@@ -89,7 +89,7 @@ Sigue los siguientes pasos para crear tu primer sitio web:
 
 Nota: Sigue estos pasos en el siguiente video:
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+![Mi primer sitio](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/mi-primer-sitio.gif)
 
 Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una etiqueta que le haga saber al navegador que vamos a usar HTML5.
 
