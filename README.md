@@ -89,7 +89,7 @@ Sigue los siguientes pasos para crear tu primer sitio web:
 
 Nota: Sigue estos pasos en el siguiente video:
 
-[aquí va video de los pasos para crear un nuevo archivo HTML]
+![Atributos Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/mi-primer-sitio.gif)
 
 Luego de que ya tenemos nuestro archivo `index.html` necesitamos incluir una etiqueta que le haga saber al navegador que vamos a usar HTML5.
 
@@ -102,7 +102,7 @@ Lo siguiente que necesitamos agregar es `<html></html>`. Dentro de esta etiqueta
 ### Información al navegador
 Dentro de la etiqueta `<head></head>` es donde irá toda la información interna que necesita el navegador. Por ejemplo, dado que a veces el contenido de nuestro sitio puede estar en español, necesitamos que el navegador acepte caracteres especiales como tildes o la letra `ñ`.
 
-Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8`. Sigue los pasos en el ejemplo abajo.s
+Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8`. Sigue los pasos en el ejemplo abajo.
 
 [gif escribiendo el doctype, html y la etiqueta head con el meta]
 
@@ -119,6 +119,8 @@ Existen etiquetas que ayudan a estructurar los contenidos que forman parte de lo
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
+
+
 <a href="#etiquetas-hipervinculos"></a>
 # Etiquetas: Hipervínculos
 
@@ -130,3 +132,7 @@ Existen alrededor de 5 tipos diferentes de hipervínculos.
 
 <a href="#etiquetas-imagenes"></a>
 # Etiquetas: Imagenes
+
+Las imágenes son un elemento más dentro de un sitio web y nosotros podemos cargar imágenes desde HTML utilizando la etiqueta `<img>`. Esta etiqueta sólo contiene una etiqueta de apertura debido a que la imagen que se quiere cargar, se hará desde el atributo `src` en donde se colocará como valor la ruta de la imagen que querramos mostrar en la pantalla.
+
+## Ejemplo 
