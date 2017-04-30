@@ -123,6 +123,8 @@ Como ya se ha mencionado, un sitio web consiste en un documento de texto el cual
 
 Existen etiquetas que ayudan a estructurar los contenidos que forman parte de los encabezados de nuestro sitio, así como sus párrafos. 
 
+### Parrafos
+
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
