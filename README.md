@@ -189,6 +189,14 @@ misma página.
   - Enlaces que se abren en una nueva ventana del navegador.
   - Enlaces que inician su programa de correo electrónico y abordan un nuevo correo electrónico a alguien. 
 
+  ### Como escribir un enlace
+
+  Los enlaces si crean usando la etiqueta `<a>` en donde los usuarios pueden clickear a lo que se encuentre entre la etiqueta de apertura y de cierre. 
+
+  Utilizando el atributo `href` podemos determinar la ruta de la página o sitio a donde queremos que el usuario vaya.
+
+  ![Enlace](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/enlace-sintaxis.png)
+
 <a href="#etiquetas-imagenes"></a>
 # Etiquetas: Imagenes
 
