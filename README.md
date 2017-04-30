@@ -112,7 +112,9 @@ Sigue los pasos para agregar estas etiquetas en el ejemplo de abajo
 
 
 ### Información al usuario / pantalla
-Dentro de la etiqueta `<body></body>` es donde colocaremos todo el contenido que deseamos mostrar en la pantalla y los usuarios.s
+Dentro de la etiqueta `<body></body>` es donde colocaremos todo el contenido que deseamos mostrar en la pantalla y los usuarios.
+
+![Estructura Final Primer Sitio Web](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/estructura-final-sitioweb.png)
 
 <a href="#etiquetas-texto"></a>
 # Etiquetas: Texto
