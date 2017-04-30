@@ -129,7 +129,6 @@ Para que el navegador reconozca el texto como un párrafo, debemos usar la etiqu
 
 ![Parrafos HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/parrafos-html.png)
 
-
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
@@ -143,13 +142,15 @@ Las listas ordenadas están conformadas por un conjunto de elementos con un orde
 
 Para crear una lista ordenada utilizamos la etiqueta `<ol>` para encerrar nuestros elementos y la etiqueta `<li>` por cada elemento de la lista.
 
-  
+![Listas Ordenadas HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/listas-ordenadas.png)
 
 ## Listas Desordenadas
 
 Las listas no ordenadas son de los elementos que más se usan para la construcción de un sitio web. Está conformada por un conjunto de elementos que no requieren de un orden o una secuencia específica.
 
 Para generar una lista desordenada primero necesitamos de la etiqueta `<ul>` quien es la que encierra los elementos que son parte de la lista y la etiqeuta `<li>` para cada elemento.
+
+![Listas Desordenadas HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/listas-desordenadas.png)
 
 
 <a href="#etiquetas-hipervinculos"></a>
@@ -170,6 +171,8 @@ misma página.
 # Etiquetas: Imagenes
 
 Las imágenes son un elemento más dentro de un sitio web y nosotros podemos cargar imágenes desde HTML utilizando la etiqueta `<img>`. Esta etiqueta sólo contiene una etiqueta de apertura debido a que la imagen que se quiere cargar, se hará desde el atributo `src` en donde se colocará como valor la ruta de la imagen que querramos mostrar en la pantalla.
+
+Como vemos en el ejemplo de abajo, hemos colocado otro atributo `width` que nos ayudará a manejar el ancho de nuestra imagen y como valor le hemos dado `530`
 
 ![Imagenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/imagenes.png)
 
