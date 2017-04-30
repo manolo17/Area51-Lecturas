@@ -137,6 +137,12 @@ Las etiquetas que definen los títulos son `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>
 
 ![Encabezado HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/titulos.png)
 
+### Strong y Emfásis
+
+Si queremos hacer que parte de nuestro texto sea en negrita o en cursiva con HTML, las etiquetas a usar son `<strong>` y `<em>`
+
+![Encabezado HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/titulos.png)
+
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
