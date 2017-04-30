@@ -143,6 +143,14 @@ Si queremos hacer que parte de nuestro texto sea en negrita o en cursiva con HTM
 
 ![Encabezado HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/strong-em.png)
 
+### Citación
+
+Cuando queremos que el navegador reconozca una parte de nuestro texto como una cita utilizamos la etiqueta `<blockquote>`. Esta etiqueta trabaja como contenedor de la cita, la cual puede ser un párrafo (`<p>`) o un texto encerrado en la etiqueta `<cite>`
+
+El navegador tiende a indentar el texto que se encuentra dentro de la etiqueta. Abajo podemos ver la diferencia usando un `<p>` y un `<cite>`.
+
+![Citacion HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/citacion.png)
+
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
