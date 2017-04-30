@@ -150,7 +150,7 @@ Las listas funcionan para que nosotros podamos agrupar conjuntos de elementos po
 
 Existen 3 tipos de listas que podemos presentar con HTML: Ordenadas, Desordenadas y de Definición.
 
-## Listas Ordenadas
+### Listas Ordenadas
 
 Las listas ordenadas están conformadas por un conjunto de elementos con un orden o una secuencia. Funcionan de la misma forma que una lista ordenada. 
 
@@ -158,7 +158,7 @@ Para crear una lista ordenada utilizamos la etiqueta `<ol>` para encerrar nuestr
 
 ![Listas Ordenadas HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/listas-ordenadas.png)
 
-## Listas Desordenadas
+### Listas Desordenadas
 
 Las listas no ordenadas son de los elementos que más se usan para la construcción de un sitio web. Está conformada por un conjunto de elementos que no requieren de un orden o una secuencia específica.
 
