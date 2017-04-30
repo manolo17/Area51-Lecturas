@@ -108,7 +108,7 @@ Otro ejemplo muy usado de información para el navegador es la posibilidad de da
 
 Sigue los pasos para agregar estas etiquetas en el ejemplo de abajo
 
-[gif escribiendo el doctype, html, head con el meta y title]
+![Doctype, head and title](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/doctype-head-title.gif)
 
 
 ### Información al usuario / pantalla
