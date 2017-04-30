@@ -125,6 +125,11 @@ Existen etiquetas que ayudan a estructurar los contenidos que forman parte de lo
 
 ### Parrafos
 
+Para que el navegador reconozca el texto como un párrafo, debemos usar la etiqueta `<p></p>`
+
+![Parrafos HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/parrafos-html.png)
+
+
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
