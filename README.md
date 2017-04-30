@@ -129,6 +129,14 @@ Para que el navegador reconozca el texto como un párrafo, debemos usar la etiqu
 
 ![Parrafos HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/parrafos-html.png)
 
+### Encabezados
+
+En la gran mayoria de los sitios web, existen diferentes secciones que delimitan la jerarquía del contenido que llevan. Usualmente estas secciones se delimitan gracias a los títulos que llevan. 
+
+Las etiquetas que definen los títulos son `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` y `<h6>` en donde la etiqueta `<h1>` determina un título de mayor importancia y la etiqueta `<h6>` determida un título con la menor importancia.
+
+![Encabezado HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/titulos.png)
+
 <a href="#etiquetas-listas"></a>
 # Etiquetas: Listas
 
