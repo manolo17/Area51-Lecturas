@@ -102,9 +102,14 @@ Lo siguiente que necesitamos agregar es `<html></html>`. Dentro de esta etiqueta
 ### Información al navegador
 Dentro de la etiqueta `<head></head>` es donde irá toda la información interna que necesita el navegador. Por ejemplo, dado que a veces el contenido de nuestro sitio puede estar en español, necesitamos que el navegador acepte caracteres especiales como tildes o la letra `ñ`.
 
-Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8`. Sigue los pasos en el ejemplo abajo.
+Para eso tenemos la etiqueta `<meta>` con atributo `charset="utf-8"`. El `utf-8`.
 
-[gif escribiendo el doctype, html y la etiqueta head con el meta]
+Otro ejemplo muy usado de información para el navegador es la posibilidad de dar un título a nuestro sitio con la etiqueta `title`
+
+Sigue los pasos para agregar estas etiquetas en el ejemplo de abajo
+
+[gif escribiendo el doctype, html, head con el meta y title]
+
 
 ### Información al usuario / pantalla
 Dentro de la etiqueta `<body></body>` es donde colocaremos todo el contenido que deseamos mostrar en la pantalla y los usuarios.s
@@ -124,6 +129,12 @@ Las listas funcionan para que nosotros podamos agrupar conjuntos de elementos po
 Existen 3 tipos de listas que podemos presentar con HTML: Ordenadas, Desordenadas y de Definición.
 
 ## Listas Ordenadas
+
+Las listas ordenadas están conformadas por un conjunto de elementos con un orden o una secuencia. Funcionan de la misma forma que una lista ordenada. 
+
+Para crear una lista ordenada utilizamos la etiqueta `<ol>` para encerrar nuestros elementos y la etiqueta `<li>` por cada elemento de la lista.
+
+  
 
 ## Listas Desordenadas
 
