@@ -144,13 +144,18 @@ Para generar una lista desordenada primero necesitamos de la etiqueta `<ul>` qui
 
 
 <a href="#etiquetas-hipervinculos"></a>
-# Etiquetas: Hipervínculos
+# Etiquetas: Enlaces (Links)
 
-Los hipervínculos son uno de los componentes más importantes en un sitio web, ya que le permiten al usuario navegar a través de las páginas que component tu aplicación/stio.
+Los enlaces son uno de los componentes más importantes en un sitio web, ya que le permiten al usuario navegar a través de todo internet y también por nuestro sitio.
 
-Existen alrededor de 5 tipos diferentes de hipervínculos.
+Existen alrededor de 5 tipos diferentes de enlaces.
 
-
+  - Enlaces de un sitio web a otro.
+  - Enlaces de una página a otra en el mismo sitio web.
+  - Enlaces desde una parte de una página web a otra parte del
+misma página.
+  - Enlaces que se abren en una nueva ventana del navegador.
+  - Enlaces que inician su programa de correo electrónico y abordan un nuevo correo electrónico a alguien. 
 
 <a href="#etiquetas-imagenes"></a>
 # Etiquetas: Imagenes
