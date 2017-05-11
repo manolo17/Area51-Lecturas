@@ -266,3 +266,9 @@ Para definir las celdas podemos usar la etiqueta `<td>`.
 
 ![Tablas III](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-3.gif)
 
+Si queremos definir celdas como encabezados podemos usar la etiqueta `<th>` 
+
+![Tablas IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-4.gif)
+
+
+
