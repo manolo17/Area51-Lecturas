@@ -210,3 +210,9 @@ Como vemos en el ejemplo de abajo, hemos colocado otro atributo `width` que nos 
 
 <a href="#formularios"></a>
 # Formularios
+
+Los formularios son una de las partes más importantes de un sitio web ya que es la manera en como nosotros podemos obtener información sobre nuestros usuarios y de la misma forma, como los usuarios pueden ponerse en contacto con nosotros.
+
+Miremos un momento un diseño clásico de un formulario.
+
+![Imagenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/form-design.png)
