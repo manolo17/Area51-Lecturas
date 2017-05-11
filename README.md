@@ -217,6 +217,10 @@ El diseño de un formulario consiste en un conjunto de campos de texto de difere
 
 Para definir un formulario necesitamos de la etiqueta `<form>`, dentro de esta etiqueta nosotros vamos a definir los campos de texto y boton/botones usando la etiqueta `<input>`
 
+Veamos el siguiente ejemplo:
+
+![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-1.png)
+
 Como podemos ver en la imagen de arriba, el diseño de un formulario consiste en agrupar campos de texto en donde el usuario llenará la información que nosotros le solicitemos y un botón para que esa información luego pueda ser enviada y guardada.
 
 Para transcribir esto en HTML
