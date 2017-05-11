@@ -221,6 +221,12 @@ Veamos el siguiente ejemplo:
 
 ![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-1.gif)
 
-Como podemos ver en la imagen de arriba, con la etiqueta `input` podemos definir un capo y el atributo `type` nos ayuda a definir que tipo de campo queremos. Por defecto el valor del atributo es `text`.
+Como podemos ver en la imagen de arriba, con la etiqueta `input` podemos definir un campo y el atributo `type` nos ayuda a definir que tipo de campo queremos. Por defecto el valor del atributo es `text`.
+
+## Contraseñas 
+
+Si queremos crear un campo para que nuestro usuario coloque su contraseña tenemos que cambiar el valor de `type` a `password`
+
+![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-2.gif)
 
 Para transcribir esto en HTML
