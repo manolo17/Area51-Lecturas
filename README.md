@@ -223,10 +223,14 @@ Veamos el siguiente ejemplo:
 
 Como podemos ver en la imagen de arriba, con la etiqueta `input` podemos definir un campo y el atributo `type` nos ayuda a definir que tipo de campo queremos. Por defecto el valor del atributo es `text`.
 
-## Contraseñas 
+## Contraseña 
 
 Si queremos crear un campo para que nuestro usuario coloque su contraseña tenemos que cambiar el valor de `type` a `password`
 
-![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-2.gif)
+![Formulario II](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-2.gif)
 
-Para transcribir esto en HTML
+## Correo Electrónico 
+
+Si queremos crear un campo para que nuestro usuario coloque su correo electrónico tenemos que cambiar el valor de `type` a `email`
+
+![Formulario III](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-3.gif)
