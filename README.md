@@ -240,3 +240,12 @@ Si queremos crear un campo para que nuestro usuario coloque su correo electróni
 Como podemos ver en los ejemplos pasados, la etiqueta `<input>` nos ayuda a generar campos de texto de diferentes tipos para que el usuario pueda colocar su información. Sin embargo los campos por si solos no ayudan a un usuario diferenciar entre ellos. 
 
 Para estos casos, necesitamos de la etiqueta `<label>` y el atributo `placeholder`. La etiqueta `<label>` nos ayuda a relacionar el nombre con el campo que corresponde y el atributo `placeholder` nos ayuda a dejar un pequeño mensaje dentro del campo para asegurarnos de que el usuario coloque su información en el campo correcto.
+
+### Ejemplo de uso `<label>`
+
+![Formulario IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-4.gif)
+
+### Ejemplo de uso `placeholder`
+
+![Formulario V](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-5.gif)
+
