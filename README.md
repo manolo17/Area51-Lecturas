@@ -243,7 +243,7 @@ Para estos casos, necesitamos de la etiqueta `<label>` y el atributo `placeholde
 
 ### Ejemplo de uso `<label>`
 
-![Formulario IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-4.gif)
+![Formulario IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formulario-4.gif)
 
 ### Ejemplo de uso `placeholder`
 
