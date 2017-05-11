@@ -17,6 +17,8 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
     * [Etiquetas: Listas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-listas)
     * [Etiquetas: Hipervínculos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-hipervinculos)
     * [Etiquetas: Imágenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-imagenes)
+[Formularios](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#formularios)
+[Tablas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#tablas)
 
 # CSS3
 - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-css)
