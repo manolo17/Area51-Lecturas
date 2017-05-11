@@ -208,3 +208,5 @@ Como vemos en el ejemplo de abajo, hemos colocado otro atributo `width` que nos 
 
 ![Imagenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/imagenes.png)
 
+<a href="#formularios"></a>
+# Formularios
