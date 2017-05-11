@@ -264,5 +264,5 @@ Dentro de ella necesitamos definir una fila con la etiqueta `<tr>`, la cual llev
 
 Para definir las celdas podemos usar la etiqueta `<td>`. 
 
-![Tablas II](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-3.gif)
+![Tablas III](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-3.gif)
 
