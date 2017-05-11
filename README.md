@@ -216,3 +216,5 @@ Los formularios son una de las partes más importantes de un sitio web ya que es
 Miremos un momento un diseño clásico de un formulario.
 
 ![Imagenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/form-design.jpg)
+
+Como podemos ver en la imagen de arriba, el diseño de un formulario consiste en agrupar campos de texto en donde el usuario llenará la información que nosotros le solicitemos y un botón para que esa información luego pueda ser enviada y guardada.
