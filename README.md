@@ -219,8 +219,8 @@ Para definir un formulario necesitamos de la etiqueta `<form>`, dentro de esta e
 
 Veamos el siguiente ejemplo:
 
-![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-1.png)
+![Formulario I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-1.gif)
 
-Como podemos ver en la imagen de arriba, el diseño de un formulario consiste en agrupar campos de texto en donde el usuario llenará la información que nosotros le solicitemos y un botón para que esa información luego pueda ser enviada y guardada.
+Como podemos ver en la imagen de arriba, con la etiqueta `input` podemos definir un capo y el atributo `type` nos ayuda a definir que tipo de campo queremos. Por defecto el valor del atributo es `text`.
 
 Para transcribir esto en HTML
