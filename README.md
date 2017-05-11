@@ -249,3 +249,20 @@ Para estos casos, necesitamos de la etiqueta `<label>` y el atributo `placeholde
 
 ![Formulario V](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/formularios-5.gif)
 
+<a href="#tablas"></a>
+# Tablas
+
+Las tablas son elementos que nos ayudan a organizar textos, imagenes, hipervínculos dentro de filas, columnas y celdas.
+
+La etiqueta para definir una tabla es `<table>`. 
+
+![Tablas I](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-1.gif)
+
+Dentro de ella necesitamos definir una fila con la etiqueta `<tr>`, la cual llevará dentro el número de celdas que necesitemos.
+
+![Tablas II](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-2.gif)
+
+Para definir las celdas podemos usar la etiqueta `<td>`. 
+
+![Tablas II](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-3.gif)
+
