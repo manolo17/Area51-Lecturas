@@ -215,7 +215,7 @@ Los formularios son una de las partes más importantes de un sitio web ya que es
 
 El diseño de un formulario consiste en un conjunto de campos de texto de diferentes tipos y un botón que nos servirá para que la información que ingrese el usuario sea enviada y guardada.
 
-Para definir un formulario necesitamos de la etiqueta `<form>`, dentro de esta etiqueta nosotros vamos a definir las 
+Para definir un formulario necesitamos de la etiqueta `<form>`, dentro de esta etiqueta nosotros vamos a definir los campos de texto y boton/botones usando la etiqueta `<input>`
 
 Como podemos ver en la imagen de arriba, el diseño de un formulario consiste en agrupar campos de texto en donde el usuario llenará la información que nosotros le solicitemos y un botón para que esa información luego pueda ser enviada y guardada.
 
