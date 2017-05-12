@@ -53,11 +53,11 @@ Por esta razón, la extensión de nuestro archivo es `html`
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
-## Como vemos un documento de texto en Word
+## ¿Cómo vemos un documento de texto en Word?
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-1.png)
 
-## Como vemos un documento de texto en un navegador con HTML
+## ¿Cómo vemos un documento de texto en un navegador con HTML?
 
 ![Estructura](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-lecturas-2.png)
 
@@ -66,7 +66,7 @@ De la misma forma en que Word tiene un formato visual distinto para sus títulos
 <a href="#" id="etiquetas-sintaxis"></a>
 ## Sintaxis de etiquetas
 
-La gran mayoria de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
+La gran mayoría de las etiquetas HTML consiste en una de apertura y otra de cierre. De esta manera, lo que va en el medio es el contenido que queremos mostrar en la pantalla. 
 
 ![Etiquetas Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/html-etiquetas-sintaxis.png)
 
@@ -125,7 +125,7 @@ Como ya se ha mencionado, un sitio web consiste en un documento de texto el cual
 
 Existen etiquetas que ayudan a estructurar los contenidos que forman parte de los encabezados de nuestro sitio, así como sus párrafos. 
 
-### Parrafos
+### Párrafos
 
 Para que el navegador reconozca el texto como un párrafo, debemos usar la etiqueta `<p></p>`
 
@@ -133,13 +133,13 @@ Para que el navegador reconozca el texto como un párrafo, debemos usar la etiqu
 
 ### Encabezados
 
-En la gran mayoria de los sitios web, existen diferentes secciones que delimitan la jerarquía del contenido que llevan. Usualmente estas secciones se delimitan gracias a los títulos que llevan. 
+En la gran mayoría de los sitios web, existen diferentes secciones que delimitan la jerarquía del contenido que llevan. Usualmente estas secciones se delimitan gracias a los títulos que llevan. 
 
 Las etiquetas que definen los títulos son `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` y `<h6>` en donde la etiqueta `<h1>` determina un título de mayor importancia y la etiqueta `<h6>` determida un título con la menor importancia.
 
 ![Encabezado HTML](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/titulos.png)
 
-### Strong y Emfásis
+### Strong y Enfásis
 
 Si queremos hacer que parte de nuestro texto sea en negrita o en cursiva con HTML, las etiquetas a usar son `<strong>` y `<em>`
 
@@ -191,16 +191,16 @@ misma página.
   - Enlaces que se abren en una nueva ventana del navegador.
   - Enlaces que inician su programa de correo electrónico y abordan un nuevo correo electrónico a alguien. 
 
-  ### Como escribir un enlace
+  ### ¿Cómo escribir un enlace?
 
-  Los enlaces si crean usando la etiqueta `<a>` en donde los usuarios pueden clickear a lo que se encuentre entre la etiqueta de apertura y de cierre. 
+  Los enlaces se crean usando la etiqueta `<a>` en donde los usuarios pueden clickear a lo que se encuentre entre la etiqueta de apertura y de cierre. 
 
   Utilizando el atributo `href` podemos determinar la ruta de la página o sitio a donde queremos que el usuario vaya.
 
   ![Enlace](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/enlace-sintaxis.png)
 
 <a href="#etiquetas-imagenes"></a>
-# Etiquetas: Imagenes
+# Etiquetas: Imágenes
 
 Las imágenes son un elemento más dentro de un sitio web y nosotros podemos cargar imágenes desde HTML utilizando la etiqueta `<img>`. Esta etiqueta sólo contiene una etiqueta de apertura debido a que la imagen que se quiere cargar, se hará desde el atributo `src` en donde se colocará como valor la ruta de la imagen que querramos mostrar en la pantalla.
 
@@ -237,7 +237,7 @@ Si queremos crear un campo para que nuestro usuario coloque su correo electróni
 
 ## Labels y Placeholder
 
-Como podemos ver en los ejemplos pasados, la etiqueta `<input>` nos ayuda a generar campos de texto de diferentes tipos para que el usuario pueda colocar su información. Sin embargo los campos por si solos no ayudan a un usuario diferenciar entre ellos. 
+Como podemos ver en los ejemplos pasados, la etiqueta `<input>` nos ayuda a generar campos de texto de diferentes tipos para que el usuario pueda colocar su información. Sin embargo, los campos por si solos no ayudan a un usuario diferenciar entre ellos. 
 
 Para estos casos, necesitamos de la etiqueta `<label>` y el atributo `placeholder`. La etiqueta `<label>` nos ayuda a relacionar el nombre con el campo que corresponde y el atributo `placeholder` nos ayuda a dejar un pequeño mensaje dentro del campo para asegurarnos de que el usuario coloque su información en el campo correcto.
 
