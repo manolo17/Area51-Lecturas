@@ -286,8 +286,14 @@ La clave para entender como funciona CSS es recordar que existe una caja invisib
 ![CSS 1](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-1.png)
 
 <a href="#css-sintaxis"></a>
-# CSS Sintaxis
+# CSS: Sintaxis
 
-CSS funciona asociando reglas con elementos HTML. Estas reglas son las que definen como se debe de mostrar el contenido de las etiquetas HTML especificadas. Las reglas CSS están estructuradas en dos partes: un selector y una declaración
+CSS funciona asociando reglas con elementos HTML. Estas reglas son las que definen como se debe de mostrar el contenido de las etiquetas HTML especificadas. Las reglas CSS están estructuradas en dos partes: un selector y una declaración.
 
 ![CSS 2](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-2.png)
+
+Los selectores indican el elemento al cual la regla CSS será aplicada. La misma regla puede aplicarse a más de un elemento si separamos los nombres de los elementos con comas.
+
+Las declaraciones indican como deben de verse los elementos que han sido seleccionados. Las declaraciones se dividen en dos partes: propiedad y valor. Estas dos partes son separadas por dos puntos
+
+![CSS 3](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-3.png)
