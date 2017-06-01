@@ -284,3 +284,10 @@ CSS es un lenguaje que trabaja con hojas de estilos, hecho para encargarse de ha
 La clave para entender como funciona CSS es recordar que existe una caja invisible alrededor de todos y cada uno de los elementos HTML.
 
 ![CSS 1](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-1.png)
+
+<a href="#css-sintaxis"></a>
+# CSS Sintaxis
+
+CSS funciona asociando reglas con elementos HTML. Estas reglas son las que definen como se debe de mostrar el contenido de las etiquetas HTML especificadas. Las reglas CSS están estructuradas en dos partes: un selector y una declaración
+
+![CSS 2](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-2.png)
