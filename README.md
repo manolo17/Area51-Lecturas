@@ -331,10 +331,8 @@ Como ya conocemos, las reglas de CSS utilizan selectores para llamar al elemento
 
 Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la referencia que va desde el más básico hasta los selectores de nivel 3.
 
-| Selector      | Significado   | Ejemplo  |
-| ------------- |:-------------:| -------: |
-| Universal     | Aplica para 
-                  todos los 
-                  elementos HTML|   * {}   |
-| col 2 is      | centered      |   $12    |
-| zebra stripes | are neat      |    $1    |
+| Selector      | Significado                 | Ejemplo  |
+| ------------- |:-------------:              | -------: |
+| Universal     | Aplica para todos los elementos HTML |   * {}   |
+| col 2 is      | centered                    |   $12    |
+| zebra stripes | are neat                    |    $1    |
