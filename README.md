@@ -17,6 +17,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
     * [Etiquetas: Listas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-listas)
     * [Etiquetas: Hipervínculos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-hipervinculos)
     * [Etiquetas: Imágenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-imagenes)
+    * [Etiquetas: HTML5](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#etiquetas-html5)
  - [Formularios](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#formularios)
  - [Tablas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#tablas)
 
@@ -208,6 +209,11 @@ Como vemos en el ejemplo de abajo, hemos colocado otro atributo `width` que nos 
 
 ![Imagenes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/imagenes.png)
 
+<a href="#etiquetas-html5"></a>
+# Etiquetas: HTML5
+
+Si bien sabemos 
+
 <a href="#formularios"></a>
 # Formularios
 
@@ -270,5 +276,11 @@ Si queremos definir celdas como encabezados podemos usar la etiqueta `<th>`
 
 ![Tablas IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-4.gif)
 
+<a href="#intro-css"></a>
+# CSS: Introducción
 
+CSS es un lenguaje que trabaja con hojas de estilos, hecho para encargarse de hacer un sitio web más atractivo. El lenguaje nos permite crear reglas que pueden especificar colores, espacios, distribución, animación, 3D, transiciones, etc.
 
+La clave para entender como funciona CSS es recordar que existe una caja invisible alrededor de todos y cada uno de los elementos HTML.
+
+![CSS 1](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-1.png)
