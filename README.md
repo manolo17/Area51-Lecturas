@@ -312,9 +312,12 @@ Existen dos maneras de conectar el CSS con nuestro archivo HTML: Usando un archi
 
 Podemos incluir nuestro estilos directamente en nuestro archivo `html` utilizando la etiqueta `<style>` dentro del elemento `<head>`. Esta etiqueta necesita el atributo `type` para indicar que los estilos colocados son CSS. El valor del atributo debe de ser `text/css`.
 
+![CSS 4](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-4.gif)
+
 ### Usando un archivo CSS externo
 
 Si queremos utilizar un archivo externo para escribir nuestro estilos, debemos crear un archivo con extensión `.css`.
 Lo siguiente que debemos hacer es conectar este archivo con nuestro `index.html` con la etiqueta `<link>`. Esta etiqueta necesita de dos atributos: `href` para determinar la ruta en donde se encuentra el archivo y `rel` para especificar que tipo de archivo que estamos enlazando.
 
-![CSS 4](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-4.gif)
+![CSS 5](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-5.gif)
+
