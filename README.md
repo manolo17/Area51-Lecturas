@@ -24,6 +24,7 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 # CSS3
 - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-css)
 - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
+- [Selectores](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-selectores)
 - [Herencia](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
 - [Especificación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
 
@@ -321,3 +322,19 @@ Lo siguiente que debemos hacer es conectar este archivo con nuestro `index.html`
 
 ![CSS 5](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-5.gif)
 
+A pesar de que puede parecer más sencillo colocar tus estilos de forma interna, la mejor práctica es separar tus estilos de tu archivo `html` debido a que en el proceso de construir tu sitio web tu CSS puede llegar a ser muy grande y muy facilmente puede convertirse un caos al momento de intentar organizar tu código.
+
+<a href="#css-selectores"></a>
+# CSS: Selectores
+
+Como ya conocemos, las reglas de CSS utilizan selectores para llamar al elemento HTML que se desea estilizar. 
+
+Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la referencia que va desde el más básico hasta los selectores de nivel 3.
+
+| Selector      | Significado   | Ejemplo  |
+| ------------- |:-------------:| -------: |
+| Universal     | Aplica para 
+                  todos los 
+                  elementos HTML|   * {}   |
+| col 2 is      | centered      |   $12    |
+| zebra stripes | are neat      |    $1    |
