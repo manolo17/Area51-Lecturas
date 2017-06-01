@@ -294,9 +294,9 @@ CSS funciona asociando reglas con elementos HTML. Estas reglas son las que defin
 
 Los selectores indican el elemento al cual la regla CSS será aplicada. La misma regla puede aplicarse a más de un elemento si separamos los nombres de los elementos con comas.
 
-Las declaraciones indican como deben de verse los elementos que han sido seleccionados. Las declaraciones se dividen en dos partes: propiedad y valor. Estas dos partes son separadas por dos puntos
+Las declaraciones indican como deben de verse los elementos que han sido seleccionados. Las declaraciones CSS se sitúan entre corchetes y cada una se compone de dos partes: propiedad y valor. Estas dos partes son separadas por dos puntos.
+
+Podemos especficicar multiples propiedades en una sóla declaración, cada una separada por un punto y coma
 
 ![CSS 3](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-3.png)
 
-Las declaraciones CSS se sitúan entre corchetes y cada una se compone de dos
-partes: una propiedad y un valor, separados por dos puntos. Podemos especficicar multiples propiedades en una sóla declaración, cada una separada por un punto y coma. 
