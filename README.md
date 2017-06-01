@@ -305,3 +305,10 @@ Las propiedades indican que es lo que queremos cambiar del elemento. Por ejemplo
 Los valores especifican la configuración que se busca utilizar para la propiedad. Por ejemplo, si queremos usar la propiedad color entonces el valor es el color que queremos que sea el texto del elemento.
 
 ## Conectar el CSS con el HTML
+
+Existen dos maneras de conectar el CSS con nuestro archivo HTML: Usando un archivo externo y creando el CSS directamente en el HTML.
+
+### Usando un archivo CSS externo
+
+Si queremos utilizar un archivo externo para escribir nuestro estilos, necesitamos de la etiqueta `<link>` para poder enlazar el archivo con nuestro HTML. La etiqueta link necesita de dos atributos: `href` para determinar la ruta en donde se encuentra el archivo y `rel` para especificar que tipo de archivo que estamos enlazando.
+
