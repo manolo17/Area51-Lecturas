@@ -334,4 +334,5 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 | Selector      | Significado                           | Ejemplo  |
 | ------------- |:-------------------------------------:| -------: |
 | Universal     | Aplica para todos los elementos HTML  |  * {}    |
-| De Tipo     | Corresponde al nombre del elemento HTML | `h2`, `h3`, `h1` {} Se aplica a los elementos `<h1>`, `<h2>` y `<h3>` |
+| De Tipo     | Corresponde al nombre del elemento HTML | `h2`, `h3`, `h1` {} 
+Se aplica a los elementos `<h1>`, `<h2>` y `<h3>` |
