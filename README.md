@@ -297,3 +297,6 @@ Los selectores indican el elemento al cual la regla CSS será aplicada. La misma
 Las declaraciones indican como deben de verse los elementos que han sido seleccionados. Las declaraciones se dividen en dos partes: propiedad y valor. Estas dos partes son separadas por dos puntos
 
 ![CSS 3](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-3.png)
+
+Las declaraciones CSS se sitúan entre corchetes y cada una se compone de dos
+partes: una propiedad y un valor, separados por dos puntos. Podemos especficicar multiples propiedades en una sóla declaración, cada una separada por un punto y coma. 
