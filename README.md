@@ -366,5 +366,18 @@ Si ambos selectores son idénticos, la regla que venga al final tomará preceden
 <a href="#" id="css-herencia"></a>
 # Herencia
 
+Por ejemplo, si usamos las propiedades `font-family` o `color` en el elemento `<body>`,estas propiedades se aplicarán a la mayoría de los elementos hijos. Esto se debe a que el valor de la propiedad `font-family` es heredado por elementos hijo. Esto nos ahorra el tener que aplicar ciertas propiedades de manera repetitiva a otros elementos.
+
+Sin embargo, no todas las propiedaes de CSS son heredables pero gracias a CSS podemos forzar a que lo sean. Echale un vistazo al ejemplo de abajo en donde forzamos el valor de la propiedad `padding` que se encuentra en `body` a que sea aplicado al elemento `.page`.
+
+![CSS 7](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-7.png)
+
 <a href="#" id="css-especificacion"></a>
 # Especificacion
+
+Si un selector es más específico que los demás, la regla más específica es la que tomará más precedencia. Por ejemplo:
+
+`h1` es más específico que `*`
+`p span` es más específico que `p`
+`p#intro` es más específico que `p`
+
