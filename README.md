@@ -377,7 +377,7 @@ Sin embargo, no todas las propiedaes de CSS son heredables pero gracias a CSS po
 
 Si un selector es más específico que los demás, la regla más específica es la que tomará más precedencia. Por ejemplo:
 
-`h1` es más específico que `*`
-`p span` es más específico que `p`
-`p#intro` es más específico que `p`
+`h1` es más específico que `*` <br />
+`p span` es más específico que `p` <br />
+`p#intro` es más específico que `p` <br />
 
