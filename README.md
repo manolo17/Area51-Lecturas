@@ -361,7 +361,7 @@ Los valores para ambas propiedades se pueden determinar de tres formas:
 
 CSS viene con 147 nombres predeterminados para colores que el navegador puede reconocer.
 
-
+![CSS 8](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-8.png)
 
 <a href="#" id="css-texto"></a>
 # CSS: Texto
