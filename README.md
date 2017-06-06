@@ -348,7 +348,11 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 <a href="#" id="css-color"></a>
 # CSS: Color
 
-El color en CSS se divide en dos tipos: Color en primer plano y segundo plano.
+El color que vemos en la pantalla de una computadora es creado mezclando cantidades de rojo, verde y azul. Para conseguir el color que necesitamos, debemos de usar un selector de color. Usualmente programas como Photoshop tienen estas herramientas.
+
+![CSS 9](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-9.png)
+
+El color en CSS se divide en dos tipos: color en primer plano y segundo plano.
 
 El color en primer plano se especifica con la propiedad `color` y para el color en segundo plano usamos la propiedad `background-color`.
 
@@ -362,6 +366,20 @@ Los valores para ambas propiedades se pueden determinar de tres formas:
 CSS viene con 147 nombres predeterminados para colores que el navegador puede reconocer.
 
 ![CSS 8](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-8.png)
+
+### Código Hexadecimal
+
+El valor hexadecimal consiste en 6 valores de números o letras que representan la cantidad de rojo, verde y azul que contiene el color. 
+
+Este valor lo antecede el símbolo `#`. Por ejemplo `#ee3e80`.
+
+![CSS 10](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-10.png)
+
+### Valor RGB
+
+Este valor expresa el color en términos de cuanto rojo, verde y azul se utiliza. Por ejemplo `rgb(100,100,90)`.
+
+![CSS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-10.png)
 
 <a href="#" id="css-texto"></a>
 # CSS: Texto
