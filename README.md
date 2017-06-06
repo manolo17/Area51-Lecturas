@@ -348,6 +348,21 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 <a href="#" id="css-color"></a>
 # CSS: Color
 
+El color en CSS se divide en dos tipos: Color en primer plano y segundo plano.
+
+El color en primer plano se especifica con la propiedad `color` y para el color en segundo plano usamos la propiedad `background-color`.
+
+Los valores para ambas propiedades se pueden determinar de tres formas:
+  - Por nombre
+  - Por código hexadecimal
+  - Por valor RGB
+
+### Nombres de Colores
+
+CSS viene con 147 nombres predeterminados para colores que el navegador puede reconocer.
+
+
+
 <a href="#" id="css-texto"></a>
 # CSS: Texto
 
