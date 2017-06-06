@@ -25,8 +25,15 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-css)
 - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
 - [Selectores](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-selectores)
-- [Herencia](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
-- [Especificación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-sintaxis)
+- [CSS: Color](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-color)
+- [CSS: Texto](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-texto)
+- [CSS: Cajas](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-cajas)
+- [Distribución de Elementos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-elementos-distribucion)
+  * [Elementos Flotantes](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-elementos-flotantes)
+  * [Posicionamiento](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-posicionamiento)
+- [La Cascada](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-cascada)
+- [Herencia](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-herencia)
+- [Especificación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#css-especificacion)
 
 # JavaScript
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
@@ -325,7 +332,7 @@ Lo siguiente que debemos hacer es conectar este archivo con nuestro `index.html`
 A pesar de que puede parecer más sencillo colocar tus estilos de forma interna, la mejor práctica es separar tus estilos de tu archivo `html` debido a que en el proceso de construir tu sitio web tu CSS puede llegar a ser muy grande y muy facilmente puede convertirse un caos al momento de intentar organizar tu código.
 
 <a href="#" id="css-selectores"></a>
-# CSS: Selectores
+# Selectores
 
 Como ya conocemos, las reglas de CSS utilizan selectores para llamar al elemento HTML que se desea estilizar. 
 
@@ -335,5 +342,27 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 | ------------- |:-------------------------------------:| -------: |
 | Universal     | Aplica para todos los elementos HTML  |  * {}    |
 | De Tipo     | Corresponde al nombre del elemento HTML | `h2`, `h3`, `h1` {} <br /> Se aplica a los elementos `<h1>`, `<h2>` y `<h3>` |
-| Clase     | Corresponde con un elemento cuyo atributo `class` tiene como valor el mismo nombre que se especifica en el CSS después del punto | `.nota` {} <br /> Se aplica a los elementos cuyo atributo `class` tiene un valor de `nota` <br /> `p.nota` {}  <br/ > Se aplica a los elementos `<p>` cuyo atributo `class` tiene un valor de `nota` |
-| ID     | Corresponde con un elemento cuyo atributo `id` tiene como valor el mismo nombre que se especifica en el CSS con un asterisco o michi  |  `#nombre` {} <br /> Se aplica a los elementos cuyo atributo `id` tiene un valor de `nombre` <br /> `p#nombre` {}  <br /> Se aplica a los elementos `<p>` cuyo atributo `id` tiene un valor de `nombre`    |
+| Clase     | Captura el elemento cuyo atributo `class` tenga un valor que corresponda al especificado luego del símbolo `.` | `.nota` {} <br /> Se aplica a los elementos cuyo atributo `class` tiene un valor de `nota` <br /> `p.nota` {}  <br/ > Se aplica a los elementos `<p>` cuyo atributo `class` tiene un valor de `nota` |
+| ID     | Captura el elemento cuyo atributo `id` tenga un valor que corresponda al especificado luego del símbolo `#` |  `#nombre` {} <br /> Se aplica a los elementos cuyo atributo `id` tiene un valor de `nombre` <br /> `p#nombre` {}  <br /> Se aplica a los elementos `<p>` cuyo atributo `id` tiene un valor de `nombre`    |
+
+<a href="#" id="css-color"></a>
+# CSS: Color
+
+<a href="#" id="css-texto"></a>
+# CSS: Texto
+
+<a href="#" id="css-cajas"></a>
+# CSS: Cajas
+
+<a href="#" id="css-cascada"></a>
+# La Cascada
+
+Si hay dos o más reglas que son aplicadas al mismo elemento, es importante conocer cual de las reglas tendrá precendencia.
+## La ultima regla, gana
+Si ambos selectores son idénticos, la regla que venga al final tomará precedencia.
+
+<a href="#" id="css-herencia"></a>
+# Herencia
+
+<a href="#" id="css-especificacion"></a>
+# Especificacion
