@@ -358,7 +358,7 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 # La Cascada
 
 Si hay dos o más reglas que son aplicadas al mismo elemento, es importante conocer cual de las reglas tendrá precendencia.
-## La ultima regla, gana
+### La ultima regla, gana
 Si ambos selectores son idénticos, la regla que venga al final tomará precedencia.
 
 ![CSS 6](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-6.png)
