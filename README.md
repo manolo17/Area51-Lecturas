@@ -361,6 +361,8 @@ Si hay dos o más reglas que son aplicadas al mismo elemento, es importante cono
 ## La ultima regla, gana
 Si ambos selectores son idénticos, la regla que venga al final tomará precedencia.
 
+![CSS 6](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-6.png)
+
 <a href="#" id="css-herencia"></a>
 # Herencia
 
