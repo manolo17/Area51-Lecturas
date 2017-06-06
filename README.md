@@ -286,7 +286,7 @@ La clave para entender como funciona CSS es recordar que existe una caja invisib
 
 ![CSS 1](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-1.png)
 
-<a href="#css-sintaxis"></a>
+<a href="#" id="css-sintaxis"></a>
 # CSS: Sintaxis
 
 CSS funciona asociando reglas con elementos HTML. Estas reglas son las que definen como se debe de mostrar el contenido de las etiquetas HTML especificadas. Las reglas CSS están estructuradas en dos partes: un selector y una declaración.
@@ -324,7 +324,7 @@ Lo siguiente que debemos hacer es conectar este archivo con nuestro `index.html`
 
 A pesar de que puede parecer más sencillo colocar tus estilos de forma interna, la mejor práctica es separar tus estilos de tu archivo `html` debido a que en el proceso de construir tu sitio web tu CSS puede llegar a ser muy grande y muy facilmente puede convertirse un caos al momento de intentar organizar tu código.
 
-<a href="#css-selectores"></a>
+<a href="#" id="css-selectores"></a>
 # CSS: Selectores
 
 Como ya conocemos, las reglas de CSS utilizan selectores para llamar al elemento HTML que se desea estilizar. 
@@ -335,4 +335,5 @@ Existen varios tipos de selectores. En la tabla de abajo podrás encontrar la re
 | ------------- |:-------------------------------------:| -------: |
 | Universal     | Aplica para todos los elementos HTML  |  * {}    |
 | De Tipo     | Corresponde al nombre del elemento HTML | `h2`, `h3`, `h1` {} <br /> Se aplica a los elementos `<h1>`, `<h2>` y `<h3>` |
-| Clase     | Corresponde con un elemento cuyo atributo `class` tiene un valor que coincide con la especificada después del punto | `.nota` {} <br /> Se aplica a los elementos cuyo atributo `class` tiene un valor de `nota` <br /> `p.note` {}  <br/ > Se aplica a los elementos `<p>` cuyo atributo `class` tiene un valor de `nota` |
+| Clase     | Corresponde con un elemento cuyo atributo `class` tiene como valor el mismo nombre que se especifica en el CSS después del punto | `.nota` {} <br /> Se aplica a los elementos cuyo atributo `class` tiene un valor de `nota` <br /> `p.nota` {}  <br/ > Se aplica a los elementos `<p>` cuyo atributo `class` tiene un valor de `nota` |
+| ID     | Corresponde con un elemento cuyo atributo `id` tiene como valor el mismo nombre que se especifica en el CSS con un asterisco o michi  |  `#nombre` {} <br /> Se aplica a los elementos cuyo atributo `id` tiene un valor de `nombre` <br /> `p#nombre` {}  <br/ > Se aplica a los elementos `<p>` cuyo atributo `id` tiene un valor de `nombre`    |
