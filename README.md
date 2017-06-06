@@ -277,7 +277,7 @@ Si queremos definir celdas como encabezados podemos usar la etiqueta `<th>`
 
 ![Tablas IV](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/HTML5/tablas-4.gif)
 
-<a href="#intro-css"></a>
+<a href="#" id="intro-css"></a>
 # CSS: Introducción
 
 CSS es un lenguaje que trabaja con hojas de estilos, hecho para encargarse de hacer un sitio web más atractivo. El lenguaje nos permite crear reglas que pueden especificar colores, espacios, distribución, animación, 3D, transiciones, etc.
