@@ -379,7 +379,7 @@ Este valor lo antecede el símbolo `#`. Por ejemplo `#ee3e80`.
 
 Este valor expresa el color en términos de cuanto rojo, verde y azul se utiliza. Por ejemplo `rgb(100,100,90)`.
 
-![CSS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-10.png)
+![CSS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-11.png)
 
 <a href="#" id="css-texto"></a>
 # CSS: Texto
