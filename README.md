@@ -58,7 +58,7 @@ Un sitio web es, en escencia, un documento de texto que es interpretado por nues
 Por esta razón, la extensión de nuestro archivo es `html`
 
 <a href="#" id="etiquetas"></a>
-# Etiquetas HTML5
+# Etiquetas 
 
 De la misma forma en que Word tiene un formato visual distinto para sus títulos, párrafos, listas, etc, HTML utiliza etiquetas que determinan el tipo de contenido que se busca mostrar en nuestras pantallas.
 
@@ -220,7 +220,15 @@ Como vemos en el ejemplo de abajo, hemos colocado otro atributo `width` que nos 
 <a href="#etiquetas-html5"></a>
 # Etiquetas: HTML5
 
-Si bien sabemos 
+Si bien sabemos que podemos usar la etiqueta `<div>` para agrugar elementos que pertenecen a diferentes secciones de los sitios que construimos, HTML5 nos da etiquetas que son más semánticas. 
+
+Esto quiere decir que estas etiquetan ayudan a que el navegador pueda tener un entendimiento más claro de las secciones de nuestro sitio. Por ejemplo, si quisieramos determinar el encabezado principal de un sitio, en lugar de agruparlo así:
+
+```
+<div id="header">
+  <h1>Logo</h1>
+</div>
+``` 
 
 <a href="#formularios"></a>
 # Formularios
