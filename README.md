@@ -381,11 +381,9 @@ Este valor expresa el color en términos de cuanto rojo, verde y azul se utiliza
 
 ![CSS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-11.png)
 
-### CSS3: Opacidad
+### CSS3: Opacidad 
 
 CSS3 nos presenta la propiedad `opacity` que nos permite determinar la opacidad de un elemento así como de sus hijos. El valor de esta propiedad es un número que puede estar entre 0 y 1, siendo 0 la desaparición total del elemento.
-
-### CSS3: RGBA
 
 La propiedad `rgba` nos permite especificar el color de la misma manera que el valor `rgb` pero agrega un cuarto valor para indicar la opacidad. Este valor es conocido como `alpha` y como la propiedad `opacity` su valor es un número que va desde 0 al 1.
 
