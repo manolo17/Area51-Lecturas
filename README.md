@@ -448,6 +448,16 @@ En caso de que el nombre de la fuente tenga más de una palabra se debe de coloc
 
 ![CSS 13](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-13.png)
 
+### Especificando tamaños de fuentes  
+
+La propiedad `font-size` nos permite especificar el tamaño de la fuente. Existen diferentes unidades de medida para esto. Las más comunes son
+
+  - Pixeles: Los pixeles son una medida fija que da la mayor precisión y control a los diseñadores.
+  - Porcentajes: El tamaño por defecto de una fuente es de 16px, por lo que un tamaño de 75% sería el equivalente a 12px y 200% sería el equivalente a 32px. 
+  - EMs: Esta unidad de medida se basa en el ancho de la letra M.
+
+![CSS 14](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-14.png)
+
 <a href="#" id="css-cajas"></a>
 # CSS: Cajas
 
