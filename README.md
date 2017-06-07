@@ -381,8 +381,36 @@ Este valor expresa el color en términos de cuanto rojo, verde y azul se utiliza
 
 ![CSS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-11.png)
 
+### CSS3: Opacidad
+
+CSS3 nos presenta la propiedad `opacity` que nos permite determinar la opacidad de un elemento así como de sus hijos. El valor de esta propiedad es un número que puede estar entre 0 y 1, siendo 0 la desaparición total del elemento.
+
+### CSS3: RGBA
+
+La propiedad `rgba` nos permite especificar el color de la misma manera que el valor `rgb` pero agrega un cuarto valor para indicar la opacidad. Este valor es conocido como `alpha` y como la propiedad `opacity` su valor es un número que va desde 0 al 1.
+
+La diferencia entre `rgba` y `opacity` es que la opacidad de `rgba` sólo afecta al elemento al que se aplica más no a sus elementos hijos, en caso los tuviera.
+
+![CSS 12](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-12.png)
+
 <a href="#" id="css-texto"></a>
 # CSS: Texto
+
+Las propiedades que te permiten controlar la apariencia del texo se pueden devidir en dos grupos:
+  - Las propiedades que afectan directamente a las fuentes ( como el tipo de letra, si el peso de la fuente es regular, negrita, italica y el tamaño de la fuente. )
+  - Las propiedades que afectan al texto sin importar que fuente estén usando  ( como el color del texto y el espacio entre palabras y letras. )
+  
+## Escoger un tipo de letra para tu sitio
+
+Cuando seleccionamos un tipo de letra es importante entender que el navegador solamente cargará ese tipo de letra si se encuentra instalado en la computadora del usuario
+
+| Tipo de Letra | Ejemplo                               |
+| ------------- |:-------------------------------------:| 
+| sans          | Georgia, Times, Times New Roman  |
+| sans-serif    | Arial, Verdana, Helvetica  |
+| monospace     | Courier, Courier New  | 
+| cursive       | Comic Sans MS, Monotype Cursiva  |
+| fantasy       | Impact  | 
 
 <a href="#" id="css-cajas"></a>
 # CSS: Cajas
