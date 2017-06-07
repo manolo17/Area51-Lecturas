@@ -230,6 +230,26 @@ Esto quiere decir que estas etiquetan ayudan a que el navegador pueda tener un e
 </div>
 ``` 
 
+Podríamos agruparlo así:
+
+```
+<header>
+  <h1>Logo</h1>
+</header>
+``` 
+
+De la última forma hacemos que la sección, que es importante, tenga un mayor significado.
+
+A continuación te mostramos una lista de etiquetas HTML5 y en que tipo de secciones podemos utilizarlas
+
+| Etiqueta            | Significado                           | 
+| --------------------|:-------------------------------------:| 
+| `<header></header>` | Aplica para los encabezados del sitio |
+| `<footer></footer>` | Aplica para los pies de página del sitio |
+| `<aside></aside>` | Aplica para las secciones secundarias del sitio |
+| `<article></article>` | Aplica para los bloques de noticias o post de un blog de tu sitio |
+| `<section></section>` | Aplica para las secciones importantes del sitio | 
+
 <a href="#formularios"></a>
 # Formularios
 
