@@ -438,6 +438,16 @@ Cuando seleccionamos un tipo de letra es importante entender que el navegador so
 | cursive       | Comic Sans MS, Monotype Cursiva  |
 | fantasy       | Impact  | 
 
+### Especificando tipos de letra
+
+La propiedad `font-family` nos permite especificar la fuente que queremos usar para el texto que se encuentre dentro del elemento/s al cual le aplicamos una regla CSS. El valor de esta propiedad es el nombre de la fuente que queremos usar.
+
+Recordemos que para que los usuarios puedan ver la fuente, deben de tenerla instalda en sus computadoras. En caso de que no sea posible, podemos especificar más de una fuente para que así el navegador pueda usar una alternativa de esa lista. También es común colocar al final un nombre génerico de tipo de letra. 
+
+En caso de que el nombre de la fuente tenga más de una palabra se debe de colocar entre comillas.
+
+![CSS 13](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-13.png)
+
 <a href="#" id="css-cajas"></a>
 # CSS: Cajas
 
