@@ -461,6 +461,20 @@ La propiedad `font-size` nos permite especificar el tamaño de la fuente. Existe
 <a href="#" id="css-cajas"></a>
 # CSS: Cajas
 
+Al comienzo de esta sección, vimos que CSS trata a todo HTML como si viviera en una caja invisible.
+
+Existen diferentes propiedades que pueden controlar la apariencia de las cajas. Por ejemplo:
+  - Controlar las dimensiones de las cajas
+  - Crear bordes alrededores de las cajas
+  - Crear espacios internos (padding) y externos (margin) entre cajas
+  - Mostrar y esconder cajas
+
+  ## Dimensiones de Cajas
+
+  Antes de revisar las propiedades que controlan la dimensión de las cajas, debemos recordar que HTML está dividido en dos tipos de elementos:
+    1. Elementos Bloque: Elementos que por defecto, tienen ancho es equivalente al ancho de la pantalla.
+    2. Elementos In-Line: Elementos que por defecto, tienen un ancho equivalente al contenido que llevan dentro
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
 
