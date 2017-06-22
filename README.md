@@ -475,7 +475,15 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
     1. Elementos Bloque: Elementos que por defecto, tienen ancho es equivalente al ancho de la pantalla.
     2. Elementos In-Line: Elementos que por defecto, tienen un ancho equivalente al contenido que llevan dentro
 
-  ![CSS 15](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-15.png)  
+  ![CSS 15](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-15.png)
+
+  Dicho esto, nosotros podemos usar las propiedades `width` (ancho) y `height` (alto). La unidad de medida más usada para especificar dimensiones son los pixeles. 
+  
+  Si usamos porcentaje el ancho/alto de la caja se define según el ancho de la ventana del navegador o si la caja se encuentra dentro de una caja contenedora, su dimensión va a depender de la caja contenedora.  
+
+  Otra unidad de medida es la `em`. Si usamos esta medida las dimensiones de la caja van a ser en relación al tamaño del texto que tiene.
+
+  ![CSS 16](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-16.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
