@@ -475,6 +475,8 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
     1. Elementos Bloque: Elementos que por defecto, tienen ancho es equivalente al ancho de la pantalla.
     2. Elementos In-Line: Elementos que por defecto, tienen un ancho equivalente al contenido que llevan dentro
 
+  ![CSS 15](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-15.png)  
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
 
