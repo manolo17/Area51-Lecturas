@@ -485,6 +485,13 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   ![CSS 16](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-16.png)
 
+  ## Limitando las Dimensiones de Cajas
+
+  Muchos diseños de sitios se expanden y encogen para poder encajar en la pantalla del usuario. En este tipo de diseños la propiedad, `min-width` especifica el tamaño más pequeño que una caja puede tener cuando la ventana del navegador es estrecha y la propiedad `max-width` indica el ancho máximo que una caja debe de tener cuando la ventana del navegador es ancha.
+
+  Estas propiedades ayudan muchísimo para asegurar que el contenido de las páginas de tu sitio sea legible ( especialmente para pantallas móviles )
+
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
 
