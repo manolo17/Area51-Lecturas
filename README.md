@@ -504,6 +504,7 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   ## Bordes y Espacios
 
   Toda caja tiene a su disposición tres propiedades que ayudar a controlar su apariencia:
+  
   | Border | Margin                               |
   |  -------------|:-------------------------------------:| 
   | sans          | Georgia, Times, Times New Roman  |
