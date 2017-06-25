@@ -491,6 +491,8 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   Estas propiedades ayudan muchísimo para asegurar que el contenido de las páginas de tu sitio sea legible ( especialmente para pantallas móviles )
 
+  ![CSS 16](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-17.png)
+
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
