@@ -509,10 +509,9 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   |  -------------|:-----------------------------:| :-----------------------------:|  
   | Toda caja tiene un borde (incluso si no es visible). la propiedad `border` separa el borde de una caja de otra | Los márgenes se colocan fuera del borde de la caja. Podemos setear el ancho de un margen entre dos bordes de dos cajas adyacentes | Padding es el espacio que hay entre el borde de la caja y cualquier contenido que se encuentre dentro de la misma. Si `margin` es una propiedad para el espacio externo, `padding` es la propiedad para los espacios internos de la caja
 
+  Si nosotros podemos especificar el ancho de una caja, los bordes, margin y padding son un agregado tanto para el ancho como para el alto.
 
-  Every box has three available properties that
-can be adjusted to control its appearance:
-
+  ![CSS 18](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-18.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
