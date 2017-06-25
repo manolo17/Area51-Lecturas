@@ -505,9 +505,9 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   Toda caja tiene a su disposición tres propiedades que ayudar a controlar su apariencia:
   
-  | Border | Margin                               |
-  |  -------------|:-------------------------------------:| 
-  | sans          | Georgia, Times, Times New Roman  |
+  | Border | Margin                               | Padding |
+  |  -------------|:-----------------------------:| :-----------------------------:|  
+  | bordes de una caja          | Espacio margin | Espacio interno
 
 
   Every box has three available properties that
