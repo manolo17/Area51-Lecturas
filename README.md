@@ -491,7 +491,15 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   Estas propiedades ayudan muchísimo para asegurar que el contenido de las páginas de tu sitio sea legible ( especialmente para pantallas móviles )
 
-  ![CSS 16](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-17.png)
+  ![CSS 17](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-17.png)
+
+  ## Contenido Desbordante
+
+  La propiedad `overflow` hace que el navegador que hacer si el contenido de una caja is mayor que la caja. Esta propiedad nos devuelve 2 valores:
+  - **hidden**: Este valor esconde cualquier contenido extra que se esté desbordando de una caja
+  ![Overflow Hidden](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/overflow-hidden.gif)
+  - **scroll**: Esta propiedad le agrega una barra de scrolling a la caja para que los usuarios puedan ver el contenido que no se vea.
+  ![Overflow Scroll](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/overflow-scroll.gif)
 
 
 <a href="#" id="css-cascada"></a>
