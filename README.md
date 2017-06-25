@@ -501,6 +501,16 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   - **scroll**: Esta propiedad le agrega una barra de scrolling a la caja para que los usuarios puedan ver el contenido que no se vea.
   ![Overflow Scroll](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/overflow-scroll.gif)
 
+  ## Bordes y Espacios
+
+  Toda caja tiene a su disposición tres propiedades que ayudar a controlar su apariencia:
+  | Border        | Margin                     | Padding  |
+  | ------------- |:--------------------------:|:----------------------:|
+  | Toda caja tiene un borde | Espacio externo | Espacio interno        |
+
+  Every box has three available properties that
+can be adjusted to control its appearance:
+
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
