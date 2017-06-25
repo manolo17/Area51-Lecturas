@@ -507,7 +507,7 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   
   | Border | Margin                               | Padding |
   |  -------------|:-----------------------------:| :-----------------------------:|  
-  | Toda caja tiene un borde (incluso si no es visible). la propiedad `border` separa el borde de una caja de otra | Los márgenes se colocan fuera del borde de la caja. Podemos setear el ancho de un margen entre dos bordes de dos cajas adyacentes | Espacio interno
+  | Toda caja tiene un borde (incluso si no es visible). la propiedad `border` separa el borde de una caja de otra | Los márgenes se colocan fuera del borde de la caja. Podemos setear el ancho de un margen entre dos bordes de dos cajas adyacentes | Padding es el espacio que hay entre el borde de la caja y cualquier contenido que se encuentre dentro de la misma. Si `margin` es una propiedad para el espacio externo, `padding` es la propiedad para los espacios internos de la caja
 
 
   Every box has three available properties that
