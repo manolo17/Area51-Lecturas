@@ -525,6 +525,18 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   * `medium`
   * `thick`
 
+  **Nota:** No podemos usar porcentajes como valor de esta propiedad.
+
+  Al utilizar esta propiedad estamos dándole el mismo ancho de borde a los 4 lados de la caja. Si deseamos especificar diferentes anchos de borde para cada lado podemos usar estas propiedades por separado.
+
+  * `border-top-width`
+  * `border-right-width`
+  * `border-bottom-width`
+  * `border-left-width`
+
+  **Tip:** Si queremos especificar diferentes anchos para los 4 lados en una sola línea podemos hacerlo de esta manera `border-width: 2px 1px 1px 2px` en donde el orden de los valores son en el sentido a la agujas del reloj: `top`, `right`, `bottom` y `left`.
+
+  ![CSS 19](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-19.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
