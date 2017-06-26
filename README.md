@@ -521,9 +521,9 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   ### Border Width
 
   La propiedad `border-width` se utiliza para controlar el ancho del borde. El valor de esta propiedad se puede definir en pixeles o utilizando uno de los siguientes valores predeterminados:
-    - `thin`
-    - `medium`
-    - `thick`
+  * `thin`
+  * `medium`
+  * `thick`
 
 
 <a href="#" id="css-cascada"></a>
