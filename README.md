@@ -534,9 +534,24 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   * `border-bottom-width`
   * `border-left-width`
 
-  **Tip:** Si queremos especificar diferentes anchos para los 4 lados en una sola línea podemos hacerlo de esta manera `border-width: 2px 1px 1px 2px` en donde el orden de los valores son en el sentido a la agujas del reloj: `top`, `right`, `bottom` y `left`.
+  **Tip:** Si queremos especificar diferentes anchos para los 4 lados en una sola línea podemos hacerlo de esta manera `border-width: 2px 1px 1px 2px;` en donde el orden de los valores son en el sentido a la agujas del reloj: `top`, `right`, `bottom` y `left`.
 
   ![CSS 19](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-19.png)
+
+  ### Border Style
+
+  Podemos controlar el tipo de un borde usando la propiedad `border-style`. Esta propiedad tiene los siguientes valores:
+  * `solid`: una sóla línea continua
+  * `dotted`: una serie de untos cuadrados
+  * `dashed`: una serie de líneas cortas
+  * `double`: dos líneas sólidas
+  * `groove`: da la apariencia de tallado en el borde
+  * `ridge`: da la apariencia de alto relieve en la página
+  * `inset`: da la apariencia de estar incrustado en la página
+  * `outset`: da la apariencia de salir de la pantalla
+  * `hidden / none`: no muestra ningún borde
+
+  ![CSS 20](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-20.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
