@@ -513,6 +513,19 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   ![CSS 18](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-18.png)
 
+  La propiedad `border` se divide en 3 categorías:
+  - `border-width`
+  - `border-style`
+  - `border-color`
+
+  ### Border Width
+
+  La propiedad `border-width` se utiliza para controlar el ancho del borde. El valor de esta propiedad se puede definir en pixeles o utilizando uno de los siguientes valores predeterminados:
+    - `thin`
+    - `medium`
+    - `thick`
+
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
 
