@@ -553,10 +553,31 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   ![CSS 20](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-20.png)
 
+  ### Border Color
+
+  Otra de las caracteristicas que podemos especificar para los bordes usando valores RGB, hexadecimales o valores predeterminados.
+
+  Es posible controlar de forma individual los colores de los borders de cada uno de los 4 lados usando estas propiedades:
+  * `border-top-color`
+  * `border-right-color`
+  * `border-bottom-color`
+  * `border-left-color`
+
+  Así como con `border-width`, es posible utilizar un atajo para colocar 4 colores diferentes en una sola propiedad por ejemplo: `border-color: darkcyan deeppink darkcyan deeppink;`. De igual manera, el orden de los valores va en el sentido de las agujas del reloj: `top` `right` `bottom` `left`.
+
+  ### Atajo: Border
+
+  La propiedad `border` nos permite especificar el ancho, estilo y el color de borde a lo largo de los 4 lados de la caja al que se le está aplicando la propiedad. 
+
+  **Recuerda**: Cuando uses un atajo para cualquier propiedad, debes de respetar el orden de los valores. De lo contrario no funcionará el atajo.
+
+  ![CSS 21](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-21.png)
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
 
 Si hay dos o más reglas que son aplicadas al mismo elemento, es importante conocer cual de las reglas tendrá precendencia.
+
 ### La ultima regla, gana
 Si ambos selectores son idénticos, la regla que venga al final tomará precedencia.
 
