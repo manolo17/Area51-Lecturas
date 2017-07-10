@@ -628,6 +628,8 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   * `inline-block`: Para cuando quieras alinear un elemento bloque de forma horizontal como un elemento inline, pero manteniendo sus caracteristicas de elemento bloque.
   `none`: Para esconder el elemento.
 
+  ![CSS Display](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-display.png)
+
   ## Escondiendo las cajas
 
   La propiedad `visibility` nos permite controlar cuando queremos que una caja sea visible o no. Esta propieda recibe dos valores:
