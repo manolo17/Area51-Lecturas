@@ -611,11 +611,22 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   Como atajo, podemos especificar los 4 lados en una sola línea usando `margin` en el orden al que van las agujas del reloj: `top`, `right`, `bottom`, `left`.
 
-  ### Centrar Contenido
+  ## Centrar Contenido
 
   Si queremos que una caja sea centrada de forma horizontal podemos especificar el `margin-left` y el `margin-right` con un valor de `auto`. Para que esta técnica funcione, tenemos que darle a la caja un ancho.
 
   Una vez que le hayas dado un ancho a la caja, poner los margenes a `auto` hará que el navegador busque un espacio igual para el lado izquierdo y derecho haciendo que la caja se centre.
+
+  ## Cambiar el comportamiento de un Elemento
+
+  La propiedad `display` nos permite cambiar el estado de un elemento inline a un elemento bloque y viceversa. También puede ser usado para esconder el elemento del sitio.
+
+  Los valores que recibe esta propiedad son:
+
+  * `inline`: Para cuando quieras cambiar un elemento bloque en inline.
+  * `block`: Para cuando quieras cambiar un elemento inline en bloque.
+  * `inline-block`: Para cuando quieras alinear un elemento bloque de forma horizontal como un elemento inline, pero manteniendo sus caracteristicas de elemento bloque.
+  `none`: Para esconder el elemento.
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
