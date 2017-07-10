@@ -577,7 +577,11 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   ### Padding 
 
+  La propiedad `padding` nos ayuda a especificar cuanto espacio debería de aparecer entre el contenido de un elemento y su borde. El valor de esta propiedad usualmente está especificado en pixeles pero también es posible usar porcentajes y ems.
 
+  En caso de usarse porcentajes el padding es relativo al ancho o alto de la ventana del navegador o de la caja que funcione como contenedor de este elemento.
+
+  ![CSS 23](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-21.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
@@ -598,7 +602,7 @@ La siguiente imagen hace una demostración de este arbol.
 
 ![CSS 22](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-22.png)
 
-Por ejemplo, si usamos las propiedades `font-family` o `color` en el elemento `<body>`,estas propiedades se aplicarán a la mayoría de los elementos hijos. Esto se debe a que el valor de la propiedad `font-family` es heredado por elementos hijo. Esto nos ahorra el tener que aplicar ciertas propiedades de manera repetitiva a otros elementos.
+Por ejemplo, si usamos las propiedades `font-family` o `color` en el elemento `<body>`,estas propiedades se aplicarán a la mayoría de los elementos hijos. Esto se debe a que el valor de la propiedad `font-family` es heredado por ellos. De esta manera, nos ahorramos el tener que aplicar ciertas propiedades de manera repetitiva a otros elementos.
 
 Sin embargo, no todas las propiedaes de CSS son heredables pero gracias a CSS podemos forzar a que lo sean. Echale un vistazo al ejemplo de abajo en donde forzamos el valor de la propiedad `padding` que se encuentra en `body` a que sea aplicado al elemento `.page`.
 
