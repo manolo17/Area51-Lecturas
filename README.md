@@ -628,6 +628,15 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   * `inline-block`: Para cuando quieras alinear un elemento bloque de forma horizontal como un elemento inline, pero manteniendo sus caracteristicas de elemento bloque.
   `none`: Para esconder el elemento.
 
+  ## Escondiendo las cajas
+
+  La propiedad `visibility` nos permite controlar cuando queremos que una caja sea visible o no. Esta propieda recibe dos valores:
+
+  * `visible`: Para cuando quieras mostrar un elemento que estaba previamente escondido.
+  * `hidden`: Para cuando quieras esconder un elemento.
+
+  La diferencia entre `visibility: hidden;` y `display: none` es que `visibility` deja un espacio en blanco luego de esconder el elemento mientras que `display` hace lo contrario.
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
  
