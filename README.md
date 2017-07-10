@@ -581,7 +581,41 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   En caso de usarse porcentajes el padding es relativo al ancho o alto de la ventana del navegador o de la caja que funcione como contenedor de este elemento.
 
-  ![CSS 23](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-21.png)
+  Algo es importante a tomar en cuenta es que si nosotros le damos un ancho a nuestro elemento, el padding es agregado en este ancho.
+
+  Como podemos ver en la imagen de abajo, el segundo párrafo es más sencillo de leer porque existe espacio entre el contenido y el borde de la caja. La caja también es mucho más ancha debido al padding.
+
+  ![CSS 23](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-23.png)
+
+  Podemos especificar diferentes valores para cada lado de la caja usando:
+
+  * `padding-top`
+  * `padding-right`
+  * `padding-bottom`
+  * `padding-left`
+
+  Como atajo, podemos especificar los 4 lados en una sola línea usando `padding` en el orden al que van las agujas del reloj: `top`, `right`, `bottom`, `left`.
+
+  ### Margin
+
+  Esta propiedad controla el espacio externo entre cajas. Al igual que con `padding`, el valor usualmente es especificado en pixeles pero también puedes usar porcentajes y em.
+
+  Al igual que con padding,si nosotros le damos un ancho a nuestro elemento, el margin es agregado en este ancho
+
+  Podemos especificar diferentes valores para cada lado de la caja usando:
+
+  * `margin-top`
+  * `margin-right`
+  * `margin-bottom`
+  * `margin-left` 
+
+  Como atajo, podemos especificar los 4 lados en una sola línea usando `margin` en el orden al que van las agujas del reloj: `top`, `right`, `bottom`, `left`.
+
+  ### Centrar Contenido
+
+  Si queremos que una caja sea centrada de forma horizontal podemos especificar el `margin-left` y el `margin-right` con un valor de `auto`. Para que esta técnica funcione, tenemos que darle a la caja un ancho.
+
+  Una vez que le hayas dado un ancho a la caja, poner los margenes a `auto` hará que el navegador busque un espacio igual para el lado izquierdo y derecho haciendo que la caja se centre.
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
