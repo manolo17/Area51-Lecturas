@@ -501,7 +501,7 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   - **scroll**: Esta propiedad le agrega una barra de scrolling a la caja para que los usuarios puedan ver el contenido que no se vea.
   ![Overflow Scroll](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/overflow-scroll.gif)
 
-  ## Bordes y Espacios
+  ## Bordes
 
   Toda caja tiene a su disposición tres propiedades que ayudar a controlar su apariencia:
   
@@ -573,9 +573,15 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
 
   ![CSS 21](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-21.png)
 
+  ## Espacios Internos y Externos
+
+  ### Padding 
+
+
+
 <a href="#" id="css-cascada"></a>
 # La Cascada
-
+ 
 Si hay dos o más reglas que son aplicadas al mismo elemento, es importante conocer cual de las reglas tendrá precendencia.
 
 ### La ultima regla, gana
@@ -585,6 +591,12 @@ Si ambos selectores son idénticos, la regla que venga al final tomará preceden
 
 <a href="#" id="css-herencia"></a>
 # Herencia
+
+Antes de entender como funciona la herencia en CSS, debemos considerar que la estructura de etiquetas HTML trabaja como un arbol genenalogico en donde exiten elementos que son padres, hijos y hermanos.
+
+La siguiente imagen hace una demostración de este arbol.
+
+![CSS 22](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-22.png)
 
 Por ejemplo, si usamos las propiedades `font-family` o `color` en el elemento `<body>`,estas propiedades se aplicarán a la mayoría de los elementos hijos. Esto se debe a que el valor de la propiedad `font-family` es heredado por elementos hijo. Esto nos ahorra el tener que aplicar ciertas propiedades de manera repetitiva a otros elementos.
 
