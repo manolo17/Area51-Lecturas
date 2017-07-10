@@ -628,7 +628,7 @@ Existen diferentes propiedades que pueden controlar la apariencia de las cajas. 
   * `inline-block`: Para cuando quieras alinear un elemento bloque de forma horizontal como un elemento inline, pero manteniendo sus caracteristicas de elemento bloque.
   `none`: Para esconder el elemento.
 
-  ![CSS Display](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-display.png)
+  ![CSS Display](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-display.gif)
 
   ## Escondiendo las cajas
 
