@@ -660,11 +660,14 @@ Si un elemento bloque está dentro de otro elemento bloque entonces la caja que 
 
 La propiedad `float` hace que un elemento salga de su flujo natural y lo hace "flotar" lo más hacia la izquierda o derecha posible, dependiendo de que valor de la propiedad se esté usando. Cuando usamos esta propiedad es importante agregarle un ancho al elemento.
 
-De lo contrario, habrán algunas inconsistencias a lo largo del diseño.
+De lo contrario, habrán algunas inconsistencias a lo largo del diseño. 
 
 Cualquier elemento que se encuentre dentro de un contenedor flotará alrededor del elemento que tiene la propiedad aplicada.
 
 ![CSS 27](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-27.png)
+
+Esta propiedad es una de las que se utilizan para alinear cajas de forma horizontal. Sin embargo si tenemos más de un 1 elemento flotando el alto de estas cajas se puede ser afectado
+
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
