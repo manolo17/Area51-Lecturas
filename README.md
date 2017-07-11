@@ -646,6 +646,8 @@ Como ya sabemos, CSS interpreta todo elemento HTML como si tuviera una caja invi
 
 Los elementos bloque tienen la caracterísctica de comenzar en una nueva línea y por defecto, su ancho es equivalente al ancho de la ventana mientras que los elementos inline no comienzan en una nueva línea (por lo que son capaces de alinearse entre si horizontalmente) y su ancho depende del contenido que tienen.
 
+## Elementos Contenedores 
+
 ![CSS 24](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-24.png)
 
 ![CSS 25](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-25.png)
