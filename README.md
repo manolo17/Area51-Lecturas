@@ -668,6 +668,7 @@ Cualquier elemento que se encuentre dentro de un contenedor flotará alrededor d
 
 Esta propiedad es una de las que se utilizan para alinear cajas de forma horizontal. Sin embargo si tenemos más de un 1 elemento flotando el alto de estas cajas se puede ser afectado
 
+![CSS 28](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-28.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
