@@ -648,6 +648,8 @@ Los elementos bloque tienen la caracterísctica de comenzar en una nueva línea 
 
 ## Elementos Contenedores 
 
+Si un elemento bloque está dentro de otro elemento bloque entonces la caja que se encuentra fuera trabaja como un contenedor o como un elemento padre.
+
 ![CSS 24](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-24.png)
 
 ![CSS 25](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-25.png)
