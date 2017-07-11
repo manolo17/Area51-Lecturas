@@ -666,9 +666,17 @@ Cualquier elemento que se encuentre dentro de un contenedor flotará alrededor d
 
 ![CSS 27](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-27.png)
 
-Esta propiedad es una de las que se utilizan para alinear cajas de forma horizontal. Sin embargo si tenemos más de un 1 elemento flotando el alto de estas cajas se puede ser afectado
+Esta propiedad es una de las que se utilizan para alinear cajas de forma horizontal. Sin embargo si tenemos más de un 1 elemento flotando que tienen diferentes altos, pueden ocurrir algunas inconsistencias como en el ejemplo de abajo.
 
 ![CSS 28](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-28.png)
+
+Lo que está ocurriendo es que el alto del cuarto párrafo es menor que el resto, dejando un espacio en blanco que el quinto párrafo está buscando llenar.
+
+Hacer que el alto de todos los párrafos sean los mismos o igual que el párrafo más alto es una posible solución pero no es una solución viable en términos de diseño de un sitio web que puede estar sujeto a múltiples cambios y/o rediseños. 
+
+Para este caso la forma más común de resolverlo es usando la propiedad `clear` para el elemento que queremos que regrese a su lugar.
+
+![CSS 29](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/CSS/css-29.png)
 
 <a href="#" id="css-cascada"></a>
 # La Cascada
