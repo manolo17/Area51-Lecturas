@@ -38,17 +38,13 @@ Antes de comenzar a probar código necesitamos descargar nuestro editor de texto
 # JavaScript
   - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
   - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
-  - [Elementos de la Programación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
+  - [Elementos de la Programación](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#e-variables)
     * [Variables](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-variables)
     * [Condicionales](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-condicionales)
     * [Ciclos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-ciclos)
     * [Funciones](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-funciones)
     * [Objetos](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-objetos)
-  - [El DOM (Document Objet Model)](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
-
-  # jQuery
-  - [Introducción](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#intro-js)
-  - [Sintaxis](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-sintaxis)
+  - [El DOM (Document Objet Model)](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/README.md#js-dom)
 
 <a href="#" id="introduccion"></a>
 # Introducción
@@ -711,4 +707,199 @@ Si un selector es más específico que los demás, la regla más específica es 
 `h1` es más específico que `*` <br />
 `p span` es más específico que `p` <br />
 `p#intro` es más específico que `p` <br />
+
+<a href="#" id="intro-js"></a>
+# JavaScript: Introducción
+
+JavaScript es un lenguaje de programación que nos ayuda a crear interacción entre los elementos de un sitio y lo que hace el usuario. No es necesario instalar nada para obtener el lenguaje debido a que este ya está integrado de forma nativa en el navegador. Es decir, usando la consola del inspector de Chrome podemos programar en JavaScript en tiempo real!
+
+![JS 13](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-13.png)
+
+JavaScript, como todo lenguaje de programación consta de 5 elementos fundamentales para su entendimiento: 
+
+  * Variables
+  * Condicionales 
+  * Funciones
+  * Ciclos
+  * Objetos
+
+A continuación veremos a detalle como funcionan estos 5 elementos y la relación que tienen con la web.
+
+## Sintaxis
+
+Así como podemos escribir Javascript en la consola de Chrome, también podemos escribirlo en Sublime creando un archivo de formato `js`. 
+
+La sintaxis de un lenguaje de programación es un conjunto de reglas que deben seguirse para escribir el código fuente del que se basará la creación de un programa. Las normas básicas para escribir Javascript son las siguientes:
+
+* **No se tienen en cuenta los espacios en blanco y las nuevas líneas:** El intérprete de JavaScript ignora cualquier espacio en blanco sobrante, esto nos permite ordenar el código para un mejor entendimiento (tabulando las líneas, añadiendo espacios, creando nuevas líneas, etc.)
+
+* **Se distinguen las mayúsculas y minúsculas:**  JavaScript interpreta como dos elementos diferentes que tienen el mismo nombre pero uno está escrito en mayúscula y el otro en minúscula.
+
+* **No se define el tipo de las variables:** Al crear una variable, no es necesario indicar el tipo de dato que almacenará. De esta forma, una misma variable puede almacenar diferentes tipos de datos durante la ejecución del script.
+
+* **Se pueden incluir comentarios:** los comentarios se utilizan para añadir información en el código fuente del programa. Aunque el contenido de los comentarios no se visualiza por pantalla, si que se envía al navegador del usuario junto con el resto del script, por lo que es necesario extremar las precauciones sobre la información incluida en los comentarios.
+
+Para poder crear un programa en Javascript primero necesitamos conocer los tipos de datos que el lenguaje soporta:
+
+### Numeros 
+
+En Javascript los números pueden ser enteros o flotantes. Asimismo, Javascript soporta operaciones matemáticas básicas. 
+
+![JS 1](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-1.png)
+
+__Imagen sacada de [Ceviche.js - Sintaxis Básica](http://cevichejs.com/1-javascript#sintaxis-basica)__  
+
+Asimismo existe el objeto `Math` que nos ayuda para cuando necesitamos hacer operaciones como redondear números, generar números random, etc.
+
+### Cadenas
+
+Las cadenas refieren a los elementos que son escritos con comillas simples o dobles. Es la manera en como Javascript entiende la diferencia entre data y texto plano.
+
+![JS 2](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-2.png)
+
+Este tipo de datos también es considerado como un objeto y por lo tanto contiene propiedades como `length`  que te devuelve el total de caracteres que lo contiene y métodos como `toUpperCase()` y `toLowerCase()` que te devuelven la cadena en mayúsculas y minúsculas respectivamente.
+
+![JS 3](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-3.png)
+
+### Booleanos
+
+Un tipo de dato booleano es aquel cuyo valor puede ser verdaderos (`true`) o falsos (`false`). 
+
+### Arreglos
+
+Los arreglos son objetos que pueden guardar diferentes tipos de datos.
+
+![JS 5](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-5.png)
+
+> Los arreglos tienen una propiedad llamada `length` y utilizan los corchetes `[]` para acceder a un elemento del arreglo a través de su índice. En JavaScript, el índice de los arreglos empieza en 0 y el valor de length es igual al último índice del arreglo más uno. - __[Ceviche.js - Arrays](http://cevichejs.com/1-javascript#arrays)__
+
+Al ser objetos, los arreglos tienen una serie de métodos que sirven para manipularlos:
+
+* join
+* pop 
+* push
+* indexOF
+* rseverse
+* concat 
+* slice
+* splice
+
+Para ver información más detallada sobre estos métodos y como aplicarlos en los, puedes ingresar a  [Ceviche.js - Arrays](http://cevichejs.com/1-javascript#arrays) 
+
+<a href="#" id="js-variables"></a>
+# Variables 
+
+Las variables son pequeños espacios en la memoria donde podemos guardar objetos. Debido a que Javascript es un lenguaje dinámico, una misma variable puede guardar diferentes tipos de datos.
+
+Las variables son declaradas usando la palabra reservada `var` y puede tener un valor definido o estar vacia
+
+![JS 4](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-4.png)
+
+Gracias a nuevas actualizaciones del standard del lenguaje, ahora podemos declarar variables constantes usando `const` variables que solo viven en el bloque donde se declaran usando `let`. 
+
+<a href="#" id="js-condicionales"></a>
+# Condicionales
+
+Las estructuras condicionales son un bloques de código cuya ejecución va a depender de la veracidad o falsedad de una condición. Para crear estas estructuras utilizamos las palabras reservadas `if`, `else` y `else if` además de utilizar las `{}` para determinar los bloques de código que queremos ejecutar.
+
+![JS 6](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-6.png)
+
+<a href="#" id="js-ciclos"></a>
+# Ciclos: Estructuras Repetitivas
+
+Las estructuras repetivas nos permiten implementar un grupo de instrucciones varias veces siempre y cuando se cumpla una condición. 
+
+También podemos recorrer objetos o arreglos. Existen 4 maneras de construir un ciclo. 
+
+### for
+
+![JS 7](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-7.png)
+
+### for..in
+
+![JS 8](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-8.png)
+
+### while
+
+![JS 9](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-9.png)
+
+### do..while
+
+![JS 10](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-10.png)
+
+<a href="#" id="js-funciones"></a>
+# Funciones
+
+Javascript es un lenguaje que trabaja de manera síncrona, es decir, el código que se vaya a ejecutar dependerá del orden en que colocamos las instrucciones. Si vemos el ejemplo de abajo, el `console.log()` no se ejecutará hasta que la `alert()` termine su ciclo de ejecución.
+
+![JS 11](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-11.png)
+
+Debido a la naturaleza síncrona de Javascript, las funciones nos permiten agrupar código y ejecutarlo en diferentes momentos en que se está corriendo el programa. Asimismo, las funciones nos permiten crear funcionalidad que puede ser reutilizable.
+
+Para declarar una función necesitamos usar la palabra reservada `function`. Podemos darle nombre a la función o también podemos asignarla a una variable como una función anónima.
+
+![JS 12](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-12.png)
+
+### Parametros
+
+Para que una función pueda ser reutilizable, podemos pasarle parámetros que funcionan como variables temporales dentro de la función pero cuyo valor no se declara cuando se define la función, sino al momento de ejecutarla. 
+
+> El número de parámetros pasados a una función no es estricta. Si una función está definida para aceptar 3 argumentos y se le pasan 2 parámetros, el tercer parámetro será asignado a undefined, mientras que si a la misma función se le pasan 4 parámetros, el cuarto parámetro será ignorado. Es decir, si se tiene una función sum: - __[Ceviche.js - Funciones](http://cevichejs.com/1-javascript#funciones)__
+
+![JS 14](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-14.png)
+
+### Return
+
+Toda función, luego de ser ejecutada, es capaz de retornar un valor y nosotros podemos especificar explicitamente que valor queremos que la función retorne. En caso de no hacerlo, la función siempre retornará `undefined`
+
+![JS 15](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-15.png)
+
+Para mayor detalle sobre Funciones puedes ir a [Cevichejs - Funciones](http://cevichejs.com/2-funciones)
+
+<a href="#" id="js-objetos"></a>
+# Objetos
+
+Así como tenemos objetos de cadenas (String) y numeros (Number) también podemos crear nuestros propios objetos. Como se puede ver en el ejemplo de abajo, hemos creado un objeto literal llamado `persona` que contiene varios tipos de propiedades y un método `saludo`
+
+![JS 16](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-16.png)
+
+Una de las ventajas que nos da crear objetos es que podemos agrupar valores, al igual que un arreglo pero al mismo tiempo podemos tener un mejor contexto de donde vienen esos valores.
+
+### Accediendo a los valores de un Objeto
+
+Existen dos maneras de poder acceder a los valores de las propiedades y metodos de un objeto. En ambos casos debemos referenciar el objeto y podemos usar tanto un punto `.` o los corchetes `[]` para imprimir sus valores. Como el ejemplo de abajo. 
+
+![JS 17](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-17.png)
+
+Esta es la manera más básica de construir un objeto. Para detalles más avanzados de como el lenguaje maneja y contruye objetos puedes ir a este [Ceviche JS - Tipos vs Objetos](http://cevichejs.com/1-javascript#tipos-vs-objetos)
+
+<a href="#" id="js-dom"></a>
+
+## ¿Qué es una API?
+
+Antes de que hablemos sobre lo que es el DOM necesitamos conocer lo que es una API. 
+
+**Una API ( Aplication Programming Interface ) es un conjunto de funciones y procedimientos que se construye con el fin de ser usado por otro software**
+
+Esto quiere decir que una API funciona como un puente de conexión entre un programa y otro. En este caso, para que nosotros podamos crear interfaces que responden a lo que hace el usuario necesitamos una manera de poder conectar lo que hacemos en JavaScript con lo que ocurre en el navegador. Aquí es donde la API o APIs entran al juego.
+
+> Existen dos APIs en el navegador que permiten manipular la estructura, contenido y presentación visual de lo que se muestra dentro de un navegador: el Document Object Model, o DOM, y el Cascade Style Sheet Object Model, o CSSOM. - __[Ceviche.js - DOM Y CSSDOM](http://cevichejs.com/3-dom-cssom)__
+
+## El DOM
+
+El Document Object Model más conocido como DOM, es una API del navegador que se encarga de representar cada elemento HTML como un objeto y de esta manera, nos permite manipular y estilizar la presentación de nuestras interfaces. 
+
+También es capaz de detectar las acciones ( también conocidas como **eventos** ) que realiza el usuario en el navegador.
+
+La manera en como esta API hace la representación de los elementos HTML es a través del concepto de **arbol de nodos** en donde si un elemento contiene otro dentro de él, el elemento en cuestión es considerado un _nodo padre_ y los elementos dentro sus _nodos hijos_ 
+
+Existen diferentes tipos de nodos que representan todas las partes del documento HTML. Para ver la tabla completa ingresar a [Ceviche JS - Nodos y Elementos ](http://cevichejs.com/3-dom-cssom#nodos-y-elementos)
+
+## Document
+
+Ahora que ya sabemos que es una API y que es el DOM necesitamos desde JavaSript poder acceder a él. Aquí es donde utilizamos el objeto `document`. Este objeto representa al nodo raíz del documento HTML y nos ayudará a poder utilizar las propiedades y métodos que necesitemos para seleccionar y modificar los nodos que querramos ya sea agregando un nuevo nodo, cambiando su estilo, agregando contenido nuevo, etc.
+
+A modo de ejemplo podemos ver en la imagen de abajo que podemos llamar desde la consola de Chrome al objeto y nos dará el arbol de nuestro archivo de HTML.
+
+![JS 18](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-18.png)
 
