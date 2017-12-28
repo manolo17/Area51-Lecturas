@@ -952,13 +952,15 @@ El objeto `document` nos permite crear y/o modificar los atributos de los nodos 
 
 ![JS 26](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-26.png)
 
-### Document : Estilización de Nodos
+* **className**
 
-El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
+![JS 27](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-27.png)
 
 ### Document : Creando Nodos
 
-El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
+El objeto `document` nos permite crear nuevos nodos del árbol HTML con el métdo `createElement`
+
+![JS 28](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-28.png)
 
 ### Document : Anidando Nodos
 
