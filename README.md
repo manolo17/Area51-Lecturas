@@ -964,6 +964,10 @@ El objeto `document` nos permite crear nuevos nodos del árbol HTML con el métd
 
 ### Document : Anidando Nodos
 
+El objeto `document` nos permite anidar nuevos nodos dentro árbol HTML con los metodos `appendChild()` y `prepend()`
+
+![JS 29](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-29.png)
+
 ### Document : Eliminando Nodos
 
 ## Eventos del DOM
