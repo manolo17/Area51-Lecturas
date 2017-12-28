@@ -970,6 +970,10 @@ El objeto `document` nos permite anidar nuevos nodos dentro árbol HTML con los 
 
 ### Document : Eliminando Nodos
 
+El objeto `document` nos permite eliminar nodos dentro árbol HTML con el método `removeChild()`.
+
+![JS 30](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-30.png)
+
 ## Eventos del DOM
 
 
