@@ -903,7 +903,25 @@ A modo de ejemplo podemos ver en la imagen de abajo que podemos llamar desde la 
 
 ![JS 18](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-18.png)
 
+Existen 3 conceptos que haces un sitio o aplicación web interactivo:
+
+  * Selección del elemento
+  * Manipulación del elemento
+  * Escuchar las acciones del usuario
+
 ### Document : Seleccion de Nodos
+
+El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
+
+ * getElementById()
+ * getElementsByClassName()
+ * getElementsByTagName()
+ * querySelector()
+ * querySelectorAll()
+
+ **Ejemplo**
+
+ ![JS 19](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-19.png)
 
 ### Document : Modificación de Contenido de Nodos
 
