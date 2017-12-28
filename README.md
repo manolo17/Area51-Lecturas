@@ -913,16 +913,24 @@ Existen 3 conceptos que haces un sitio o aplicación web interactivo:
 
 El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
 
- * getElementById()
- * getElementsByClassName()
- * getElementsByTagName()
- * querySelector()
- * querySelectorAll()
-
- **Ejemplo**
-
+ * **getElementById():** Selecciona un nodo HTML en base al valor del atributo `id`.
  ![JS 19](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-19.png)
 
+ * **getElementsByClassName():** Selecciona un nodo HTML en base al valor del atributo `class`.
+ ![JS 20](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-20.png)
+
+ * **getElementsByTagName():** Selecciona un nodo HTML en base al tipo de nodo.
+ ![JS 21](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-21.png)
+
+ * **querySelector():** Selecciona un nodo HTML cuyo valor selector sea igual al argumento que se pasa por el método. Este método soporta selectores por `id` , `class`, atributo y selectores CSS de tercer nivel. En caso de haber más de un elemento con un mismo nombre de clase o tipo, el método solamente te devolverá el primer nodo que encuentre y el resto los ignorará.
+
+ ![JS 22](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-22.png)
+
+
+ * **querySelectorAll():**  Selecciona un nodo HTML cuyo valor selector sea igual al argumento que se pasa por el método. Este método soporta selectores por `id` , `class`, atributo y selectores CSS de tercer nivel. En caso de haber más de un elemento con un mismo nombre de clase o tipo, el método solamente te devolverá el primer nodo que encuentre y el resto los ignorará.
+
+  ![JS 23](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-23.png)
+ 
 ### Document : Modificación de Contenido de Nodos
 
 ### Document : Modificación de Atributos de Nodos
