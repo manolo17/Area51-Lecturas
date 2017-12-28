@@ -933,11 +933,32 @@ El objeto `document` nos permite seleccionar los nodos del árbol HTML con los s
  
 ### Document : Modificación de Contenido de Nodos
 
+El objeto `document` nos permite modificar el contenido de los nodos del árbol HTML con las siguientes propiedades:
+
+  * **innerHTML**
+  * **textContent**
+
+  ![JS 24](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-24.png)
+
 ### Document : Modificación de Atributos de Nodos
+
+El objeto `document` nos permite crear y/o modificar los atributos de los nodos del árbol HTML con algunos de estos métodos y propiedades:
+
+* **setAttribute():** Este método es para crear un nuevo atributo y recibe dos argumentos siendo el primero el nombre del atributo a crear y el segundo el valor del atributo creado.
+
+![JS 25](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-25.png)
+
+* **type** 
+
+![JS 26](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-26.png)
 
 ### Document : Estilización de Nodos
 
+El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
+
 ### Document : Creando Nodos
+
+El objeto `document` nos permite seleccionar los nodos del árbol HTML con los siguientes métodos
 
 ### Document : Anidando Nodos
 
