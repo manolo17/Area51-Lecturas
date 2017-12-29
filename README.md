@@ -1023,7 +1023,13 @@ Algunos eventos con los que vamos a trabajar ahora son:
   El método `addEventListener()` se encarga de registrar el evento que queremos que el navegador escuche y así mismo nosotros le podemos pasar una función como parámetro para que dentro de ella, escribamos el código de la respuesta que queremos dar una vez el evento sea llamado.
 
   Para conocer más eventos puedes revisar 
-  [esta lista ](https://www.w3.org/TR/DOM-Level-3-Events/#h4_event-types-list)
+  [esta lista](https://www.w3.org/TR/DOM-Level-3-Events/#h4_event-types-list)
 
+  Si deseas profundizar más sobre JavaScript aquí te dejo un par de libros y documentación recomendada:
+
+  * [ Ceviche JS - Gustavo León ](http://cevichejs.com)
+  * [ Eloquent Javscript - Marijn Haverbeke ](http://eloquentjavascript.net/)
+  * [ Mozila Developer Network: Javascript ](https://developer.mozilla.org/es/docs/Web/JavaScript) 
+  
 
 
