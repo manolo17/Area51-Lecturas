@@ -1012,6 +1012,8 @@ Algunos eventos con los que vamos a trabajar ahora son:
 
   ![JS 30](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-30.png)
 
+  __Imagen sacada de [Ceviche.js - addEventListener](http://cevichejs.com/3-dom-cssom#addeventlistener)__
+
   Otro ejemplo es `scroll`, un evento que se dispara cada vez que el usuario scrollea por tu sitio.
 
   Como sabemos las funciones pueden ser tratadas como un tipo de dato al igual que una cadena de texto o un número. Por esto, nosotros podemos pasar una función como un parámetro de la misma manera en que podemos pasar un número o una cadena de texto.
