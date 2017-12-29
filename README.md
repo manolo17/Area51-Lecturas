@@ -1010,7 +1010,7 @@ Algunos eventos con los que vamos a trabajar ahora son:
 
   Por ejemplo, `load`, es un evento se dispara una vez que el sitio haya terminado de cargar todo el HTML, CSS y Javascript que pueda estar incluido en el sitio.
 
-  ![JS 30](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-30.png)
+  ![JS 31](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-31.png)
 
   __Imagen sacada de [Ceviche.js - addEventListener](http://cevichejs.com/3-dom-cssom#addeventlistener)__
 
@@ -1021,6 +1021,9 @@ Algunos eventos con los que vamos a trabajar ahora son:
   Cuando nosotros pasamos una función como parámetro dentro de otra función lo que hacemos es retrasar la llamada de la función que está como parámetro.
 
   El método `addEventListener()` se encarga de registrar el evento que queremos que el navegador escuche y así mismo nosotros le podemos pasar una función como parámetro para que dentro de ella, escribamos el código de la respuesta que queremos dar una vez el evento sea llamado.
+
+  Para conocer más eventos puedes revisar 
+  [esta lista ](https://www.w3.org/TR/DOM-Level-3-Events/#h4_event-types-list)
 
 
 
