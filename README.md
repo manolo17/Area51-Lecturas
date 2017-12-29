@@ -1010,6 +1010,8 @@ Algunos eventos con los que vamos a trabajar ahora son:
 
   Por ejemplo, `load`, es un evento se dispara una vez que el sitio haya terminado de cargar todo el HTML, CSS y Javascript que pueda estar incluido en el sitio.
 
+  ![JS 30](https://github.com/Area51TrainingCenter/Area51-Lecturas/blob/master/images/JavaScript/js-30.png)
+
   Otro ejemplo es `scroll`, un evento que se dispara cada vez que el usuario scrollea por tu sitio.
 
   Como sabemos las funciones pueden ser tratadas como un tipo de dato al igual que una cadena de texto o un número. Por esto, nosotros podemos pasar una función como un parámetro de la misma manera en que podemos pasar un número o una cadena de texto.
