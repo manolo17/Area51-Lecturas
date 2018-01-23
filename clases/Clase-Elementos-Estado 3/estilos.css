@@ -1,0 +1,108 @@
+/* 
+  Atajo de Fonts
+
+  font: italic normal; -> no funciona
+
+  font: italic normal 20px sans-serif; -> si funciona :);
+
+*/
+
+body {
+  background-color: #ccc;
+  background-image: url('images/banner_img.jpg');
+  background-position: fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+}
+
+h1:hover {
+  background: red;
+}
+
+
+section {
+  background: white;
+}
+
+/* Botones */
+
+.botones a, .botones button {
+  font-size: 1.5em;
+  color: white;
+  text-transform: uppercase;
+}
+
+.botones button:hover {
+  cursor: pointer;
+}
+
+.botones .botoncitos:hover {
+  background: transparent;
+  color: black;
+}
+
+.botones .botoncitos:active {
+  background: blue;
+  color: white;
+  outline: none;
+}
+
+.botones a {
+  background: #5748ca;
+  text-align: center;
+}
+
+.botones button {
+  background: #ffa00b;
+}
+
+/* Formularios */
+
+form {
+  background: #1D607C;
+  color: white;
+}
+
+form input {
+  border: 2px solid gray;
+  font-size: 1em;
+}
+
+form input:focus{
+  background: green;
+  color: maroon;
+}
+
+form label {
+  font-size: 1.5em;
+}
+
+/* 
+  Trabajando con Imagenes en CSS
+
+  background: {color} {imagen} {repeticion} {posicion} 
+
+*/
+
+
+#imagen-fondo {
+  background: red url('https://notasdemascotas.com/wp-content/uploads/2015/02/que-hacer-cuando-traes-un-gatito-a-casa-324x235.jpg') no-repeat 100px 40px;
+  background-size:contain;
+  height: 500px;
+}
+
+
+
+
+
+

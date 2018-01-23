@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: white;
+  
+}
+
+.menu {
+	background: black;
+	height: 100px;
+
+
+}
+.logo{
+	float:left;
+	padding: 2em;
+	padding-left: 3em;
+}
+.subMenu ul{
+	float:right;
+	padding: 3em;
+	padding-right: 4em;
+}
+.subMenu li{
+	display: inline-block;
+	margin-left: 2em;
+	
+}
+figure{
+	background-image: url(images/polina.gif);
+	 background-size: cover;
+}
+figure img {
+	width: 100%;
+	margin-top: 0;
+}
+
+.caja{
+	padding-top: 15%;
+	width: 100%;
+	height: 500px;
+	text-align: center;
+
+}
+
+.fondo{
+
+	float: left;
+	margin-left: 30%;
+	width: 600px;
+	background: black;
+	opacity: 0.5;
+
+	
+
+	
+}
+
+
+footer{
+	background: black;
+	text-align: center;
+	height: 50px;
+	padding-top: 15px;
+
+}
+
