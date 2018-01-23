@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+	
+}
+nav {
+	background: #dad5d5;
+	padding: 2em;
+	width: 100%;
+	display: block;
+}
+
+nav img {	
+}
+
+nav a {
+	float: right;
+	text-decoration: none;
+	margin: 1em;
+	color: black;	
+}
+
+main{
+	background: black;
+}
+
+main h1 {
+		color: white;
+		text-align: center;
+}
+
+
+.linea {
+	height: 5px;
+	background: red;
+	margin-right: 5em;
+	margin-left:  5em;
+	border-radius: 25px;
+	margin-top: 2em;
+}
+
+main p {
+	color: white;
+	margin-top: 2em;
+	margin-right: 15em;
+	margin-left:  15em;
+}
+.eventos{
+	display: inline-block;
+	padding: 2em;
+
+}
+
+figure img {
+	width: 100%;
+}
+.contenido {
+	background: white;
+	float: left;
+	margin-left: 2%;
+	width: 30%;
+	position: relative;
+}
+.contenidotext p{
+
+	color:  black;
+	margin-right: 0;
+	margin-left:  1em;
+}
+
+.contenidotext h2 {
+	margin-top: 2em;
+	font-size: 15px;
+	margin-left:  1em;
+}
+
+.contenidotext a {	
+	text-decoration: none;
+	margin: 1em;
+	color: black;	
+}
+.sobresale {
+	position: absolute;
+    background: red;
+    left: 5%;
+    top: 8em;
+    right: 17em;
+}
+.sobresale p {
+	margin-top: 2em;
+	margin-right: 15em;
+	margin-left:  15em;
+}
+
+
+

@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  	text-align: center;
+
+}
+
+#contenedorgeneral{
+    max-width: 1200px;
+    
+    border-radius: 2%;
+    border-width: 1px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: -1px 0px 20px 9px #888888;
+    padding: 1em;
+}
+}
+
+header {
+	    color: #365271;
+}
+
+.formulariosContainer{
+}
+
+.form fieldset;{ 
+width: 100%;
+  padding: 40px;
+  font-size: 2em;
+  text-shadow: 2px 2px 5px #000;
+}
+
+.container{
+	 border-bottom-width: medium;
+    color: #1e6db5;
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+main{
+	    margin-top: 2em;
+}
+
+.input-wrap{
+	margin: 3%;	
+
+}
+
+legend{
+	
+
+}
+li{
+	
+}
