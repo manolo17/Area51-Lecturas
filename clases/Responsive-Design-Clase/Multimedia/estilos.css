@@ -15,7 +15,7 @@ a {
 }
 
 li {
-  list-style: none;
+  
 }
 
 img {
@@ -35,7 +35,8 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
   padding: 19px 0 4px 0;
-  box-shadow: 1px 1px 4px 0px #ccc;
+
+
 }
 
 header h1 {
@@ -46,7 +47,8 @@ header h1 {
 
 header nav {
   float: right;
-  margin-top: 14px;
+
+
 }
 
 header img {
@@ -65,7 +67,6 @@ header li:last-child a{
 header a {
   color: #333;
   font-weight: 700;
-  text-transform: uppercase;
   font-size: 0.8em;  
   margin-right: 2.875em;
   transition: color 500ms;
