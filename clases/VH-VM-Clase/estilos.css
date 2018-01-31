@@ -1,0 +1,69 @@
+/* 
+
+	1vh = 1% del alto del viewport
+	1vw = 1% del ancho del viewport
+
+*/
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Verdana;
+}
+
+.viewport-measures {
+	background: url('http://www.makecovers.com/wp-content/uploads/2015/01/Yellow-Flower-In-The-Book-Facebook-Covers.jpg');
+	background-size: cover;
+	height: 100vw;
+	width: 100vh;
+}
+
+.cajas {
+	background: #ededed;
+	box-shadow: 1px 1px 18px 2px #a79292;
+	margin: 40px 0;
+	display: inline-block;
+	max-width: 30vw;
+}
+
+.pseudo-clase h2 {
+	position: relative;
+	background: green;
+}
+
+.pseudo-clase h2::before {
+	content: ' ';
+	display: block;
+	width: 100px;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.pseudo-clase h2::after {
+	content: ' ';
+	display: block;
+	width: 100px;
+	height: 10px;
+	background: blue;
+	position: absolute;
+	top:0;
+	right: 0;
+}
+
+/*
+.barra {
+	display: block;
+	width: 100px;
+	height: 10px;
+	background: red;
+	position: absolute;
+	bottom: -16px;
+    left: 35px;}
+ */

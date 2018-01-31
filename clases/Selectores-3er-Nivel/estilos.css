@@ -1,0 +1,67 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+li,
+ol {
+  list-style: none;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background: #ededed;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px 2em;
+  background: white;
+}
+
+.uno ul,
+.uno ol,
+.post {
+  margin: 30px 0;
+  font-size: 2em;
+}
+
+.uno li:nth-child(1){
+  background: red;
+}
+
+div.post:nth-child(even) {
+  background: green;
+}
+
+div.post:nth-child(odd) {
+  background: maroon;
+}
+
+.menu li:first-child a {
+  background: teal;
+  color: black;
+  font-size: 2em;
+}
+
+.tres p:nth-child(3n) {
+  background:orange;
+}
+
+.seis li:first-child{
+  background: purple;
+}
+
+.seis li:last-child{
+  background: blue;
+}
+
+code {
+  color: #00b22c;
+  font-size: 2em;
+}
+

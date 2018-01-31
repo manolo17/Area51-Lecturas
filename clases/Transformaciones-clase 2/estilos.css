@@ -1,0 +1,86 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  background:#65DCB4;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.galeria {
+  background: #ededed;
+  padding: 70px 0;
+  overflow: hidden;
+}
+
+.galeria h2 {
+  margin-bottom: 1em;
+}
+
+.galeria-col {
+  width: 30%;
+  float: left;
+  margin-right: 1em;
+}
+
+.galeria-col img {
+  max-width: 100%;
+}
+
+.galeria-col p, .galeria-col h3 {
+  margin: 15px 20px 15px 20px;
+}
+
+.galeria-col h3 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.galeria-col img {
+  width: 100%;
+  transition-property: transform;
+  transition-duration: 550ms;
+}
+
+.galeria-col img:hover {
+  transform: skew(20deg);
+  transform: scale(1.5);
+  transform: translateX(-30px);
+  transform: rotateX(-180deg);
+  transform-origin: 0 0;
+}
+
+.button {
+  width: 90%;
+  border: 3px solid #4a89ca;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #4a89ca;
+  font-weight: bolder;
+  border-radius: 5px;
+  transition: transform, 3s, background 1s 500ms, color 1.5s 1s;
+}
+
+.button:hover {
+  background: #4a89ca;
+  color: white;
+  transform: rotate(360deg);
+}
